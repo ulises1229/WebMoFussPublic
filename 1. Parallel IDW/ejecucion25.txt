@@ -1,0 +1,21 @@
+Friction Map: Clip_Fricc_25.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:999999.000000
+NEW 2nd Max Val: 0.800000
+NEW 2nd Max Val: 2.250000
+The Second Max Val Is: 2.250000
+Avg Frict: 55728.179688
+100.000000
+Min: 0.400000	Max:999999.000000
+32618
+Source = 
+TIFF to matrix = 0.030000 secs.
+dentro del metodo
+asignados output y cost
+rows: 26, cols 26
+declarados filas y columnas
+Done
+Comienza a copiar
+Termina de copiar
+Cuda execution finished

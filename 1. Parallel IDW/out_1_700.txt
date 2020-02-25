@@ -1,0 +1,722 @@
+Friction Map: fricc_w.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:999999.000000
+NEW 2nd Max Val: 2.100000
+NEW 2nd Max Val: 4.500000
+NEW 2nd Max Val: 9.000000
+The Second Max Val Is: 9.000000
+Avg Frict: 9164.833008
+100.000000
+Min: 0.400000	Max:999999.000000
+9001
+Source = 
+rows: 3784cols: 4356TIFF to matrix = 0.720000 secs.
+Archivo de consumo: fwuse_V01_2.csv
+Columnas del arreglo: 2
+Elemento insertado: Value, ValueColumnas del arreglo: 2
+Elemento insertado: 63931.585, 63931.585Columnas del arreglo: 2
+Elemento insertado: 89027.829, 89027.829Columnas del arreglo: 2
+Elemento insertado: 23943.379, 23943.379Columnas del arreglo: 2
+Elemento insertado: 13653.348, 13653.348Columnas del arreglo: 2
+Elemento insertado: 14772.865, 14772.865Columnas del arreglo: 2
+Elemento insertado: 7041.05, 7041.05Columnas del arreglo: 2
+Elemento insertado: 44637.776, 44637.776Columnas del arreglo: 2
+Elemento insertado: 80957.776, 80957.776Columnas del arreglo: 2
+Elemento insertado: 17731.249, 17731.249Columnas del arreglo: 2
+Elemento insertado: 21728.164, 21728.164Columnas del arreglo: 2
+Elemento insertado: 11790.661, 11790.661Columnas del arreglo: 2
+Elemento insertado: 25958.511, 25958.511Columnas del arreglo: 2
+Elemento insertado: 11442.896, 11442.896Columnas del arreglo: 2
+Elemento insertado: 5445.141, 5445.141Columnas del arreglo: 2
+Elemento insertado: 12943.525, 12943.525Columnas del arreglo: 2
+Elemento insertado: 46190.808, 46190.808Columnas del arreglo: 2
+Elemento insertado: 31699.014, 31699.014Columnas del arreglo: 2
+Elemento insertado: 24648.436, 24648.436Columnas del arreglo: 2
+Elemento insertado: 39697.607, 39697.607Columnas del arreglo: 2
+Elemento insertado: 33647.45, 33647.45Columnas del arreglo: 2
+Elemento insertado: 10270.976, 10270.976Columnas del arreglo: 2
+Elemento insertado: 11461.952, 11461.952Columnas del arreglo: 2
+Elemento insertado: 18398.196, 18398.196Columnas del arreglo: 2
+Elemento insertado: 33904.701, 33904.701Columnas del arreglo: 2
+Elemento insertado: 36653.473, 36653.473Columnas del arreglo: 2
+Elemento insertado: 55023.085, 55023.085Columnas del arreglo: 2
+Elemento insertado: 29069.339, 29069.339Columnas del arreglo: 2
+Elemento insertado: 33299.685, 33299.685Columnas del arreglo: 2
+Elemento insertado: 80633.831, 80633.831Columnas del arreglo: 2
+Elemento insertado: 110551.144, 110551.144Columnas del arreglo: 2
+Elemento insertado: 79238.007, 79238.007Columnas del arreglo: 2
+Elemento insertado: 24662.728, 24662.728Columnas del arreglo: 2
+Elemento insertado: 39468.94, 39468.94Columnas del arreglo: 2
+Elemento insertado: 28993.117, 28993.117Columnas del arreglo: 2
+Elemento insertado: 182643.296, 182643.296Columnas del arreglo: 2
+Elemento insertado: 32146.821, 32146.821Columnas del arreglo: 2
+Elemento insertado: 104863.043, 104863.043Columnas del arreglo: 2
+Elemento insertado: 196739.687, 196739.687Columnas del arreglo: 2
+Elemento insertado: 29979.244, 29979.244Columnas del arreglo: 2
+Elemento insertado: 31775.236, 31775.236Columnas del arreglo: 2
+Elemento insertado: 10123.295, 10123.295Columnas del arreglo: 2
+Elemento insertado: 29255.132, 29255.132Columnas del arreglo: 2
+Elemento insertado: 112361.428, 112361.428Columnas del arreglo: 2
+Elemento insertado: 94044.219, 94044.219Columnas del arreglo: 2
+Elemento insertado: 21385.163, 21385.163Columnas del arreglo: 2
+Elemento insertado: 26239.58, 26239.58Columnas del arreglo: 2
+Elemento insertado: 6426.505, 6426.505Columnas del arreglo: 2
+Elemento insertado: 10142.351, 10142.351Columnas del arreglo: 2
+Elemento insertado: 14972.949, 14972.949Columnas del arreglo: 2
+Elemento insertado: 13215.068, 13215.068Columnas del arreglo: 2
+Elemento insertado: 18903.169, 18903.169Columnas del arreglo: 2
+Elemento insertado: 25777.482, 25777.482Columnas del arreglo: 2
+Elemento insertado: 43637.356, 43637.356Columnas del arreglo: 2
+Elemento insertado: 39245.037, 39245.037Columnas del arreglo: 2
+Elemento insertado: 71682.456, 71682.456Columnas del arreglo: 2
+Elemento insertado: 95173.264, 95173.264Columnas del arreglo: 2
+Elemento insertado: 40855.236, 40855.236Columnas del arreglo: 2
+Elemento insertado: 20265.645, 20265.645Columnas del arreglo: 2
+Elemento insertado: 10723.547, 10723.547Columnas del arreglo: 2
+Elemento insertado: 37363.296, 37363.296Columnas del arreglo: 2
+Elemento insertado: 10466.296, 10466.296Columnas del arreglo: 2
+Elemento insertado: 39225.981, 39225.981Columnas del arreglo: 2
+Elemento insertado: 26458.72, 26458.72Columnas del arreglo: 2
+Elemento insertado: 59982.309, 59982.309Columnas del arreglo: 2
+Elemento insertado: 9318.195, 9318.195Columnas del arreglo: 2
+Elemento insertado: 142.917, 142.917Columnas del arreglo: 2
+Elemento insertado: 71844.428, 71844.428Columnas del arreglo: 2
+Elemento insertado: 4759.139, 4759.139Columnas del arreglo: 2
+Elemento insertado: 41222.057, 41222.057Columnas del arreglo: 2
+Elemento insertado: 24291.143, 24291.143Columnas del arreglo: 2
+Elemento insertado: 15249.255, 15249.255Columnas del arreglo: 2
+Elemento insertado: 20246.59, 20246.59Columnas del arreglo: 2
+Elemento insertado: 51192.907, 51192.907Columnas del arreglo: 2
+Elemento insertado: 48839.538, 48839.538Columnas del arreglo: 2
+Elemento insertado: 70829.717, 70829.717Columnas del arreglo: 2
+Elemento insertado: 25915.635, 25915.635Columnas del arreglo: 2
+Elemento insertado: 12514.775, 12514.775Columnas del arreglo: 2
+Elemento insertado: 13196.012, 13196.012Columnas del arreglo: 2
+Elemento insertado: 14610.892, 14610.892Columnas del arreglo: 2
+Elemento insertado: 9389.654, 9389.654Columnas del arreglo: 2
+Elemento insertado: 36000.819, 36000.819Columnas del arreglo: 2
+Elemento insertado: 74583.673, 74583.673Columnas del arreglo: 2
+Elemento insertado: 22504.68, 22504.68Columnas del arreglo: 2
+Elemento insertado: 73783.337, 73783.337Columnas del arreglo: 2
+Elemento insertado: 26282.456, 26282.456Columnas del arreglo: 2
+Elemento insertado: 27949.822, 27949.822Columnas del arreglo: 2
+Elemento insertado: 25796.537, 25796.537Columnas del arreglo: 2
+Elemento insertado: 41260.168, 41260.168Columnas del arreglo: 2
+Elemento insertado: 37620.546, 37620.546Columnas del arreglo: 2
+Elemento insertado: 26639.748, 26639.748Columnas del arreglo: 2
+Elemento insertado: 85707.388, 85707.388Columnas del arreglo: 2
+Elemento insertado: 452.571, 452.571Columnas del arreglo: 2
+Elemento insertado: 5211.71, 5211.71Columnas del arreglo: 2
+Elemento insertado: 21356.58, 21356.58Columnas del arreglo: 2
+Elemento insertado: 1681.658, 1681.658Columnas del arreglo: 2
+Elemento insertado: 7293.537, 7293.537Columnas del arreglo: 2
+Elemento insertado: 21175.551, 21175.551Columnas del arreglo: 2
+Elemento insertado: 32289.738, 32289.738Columnas del arreglo: 2
+Elemento insertado: 18879.35, 18879.35Columnas del arreglo: 2
+Elemento insertado: 12895.886, 12895.886Columnas del arreglo: 2
+Elemento insertado: 25629.801, 25629.801Columnas del arreglo: 2
+Elemento insertado: 61011.312, 61011.312Columnas del arreglo: 2
+Elemento insertado: 20770.62, 20770.62Columnas del arreglo: 2
+Elemento insertado: 18364.848, 18364.848Columnas del arreglo: 2
+Elemento insertado: 12600.525, 12600.525Columnas del arreglo: 2
+Elemento insertado: 29669.591, 29669.591Columnas del arreglo: 2
+Elemento insertado: 15720.881, 15720.881Columnas del arreglo: 2
+Elemento insertado: 8417.818, 8417.818Columnas del arreglo: 2
+Elemento insertado: 8517.86, 8517.86Columnas del arreglo: 2
+Elemento insertado: 23619.433, 23619.433Columnas del arreglo: 2
+Elemento insertado: 7736.58, 7736.58Columnas del arreglo: 2
+Elemento insertado: 5511.836, 5511.836Columnas del arreglo: 2
+Elemento insertado: 465.836, 465.836Columnas del arreglo: 2
+Elemento insertado: 176.605, 176.605Columnas del arreglo: 2
+Elemento insertado: 154.926, 154.926Columnas del arreglo: 2
+Elemento insertado: 166.295, 166.295Columnas del arreglo: 2
+Elemento insertado: 218.113, 218.113Columnas del arreglo: 2
+Elemento insertado: 5840.545, 5840.545Columnas del arreglo: 2
+Elemento insertado: 126.109, 126.109Columnas del arreglo: 2
+Elemento insertado: 252.747, 252.747Columnas del arreglo: 2
+Elemento insertado: 6979.119, 6979.119Columnas del arreglo: 2
+Elemento insertado: 225.78, 225.78Columnas del arreglo: 2
+Elemento insertado: 398.155, 398.155Columnas del arreglo: 2
+Elemento insertado: 414.018, 414.018Columnas del arreglo: 2
+Elemento insertado: 3768.248, 3768.248Columnas del arreglo: 2
+Elemento insertado: 14563.253, 14563.253Columnas del arreglo: 2
+Elemento insertado: 394.19, 394.19Columnas del arreglo: 2
+Elemento insertado: 150.167, 150.167Columnas del arreglo: 2
+Elemento insertado: 192.733, 192.733Columnas del arreglo: 2
+Elemento insertado: 157.306, 157.306Columnas del arreglo: 2
+Elemento insertado: 311.968, 311.968Columnas del arreglo: 2
+Elemento insertado: 228.159, 228.159Columnas del arreglo: 2
+Elemento insertado: 123.73, 123.73Columnas del arreglo: 2
+Elemento insertado: 475.883, 475.883Columnas del arreglo: 2
+Elemento insertado: 789.172, 789.172Columnas del arreglo: 2
+Elemento insertado: 366.959, 366.959Columnas del arreglo: 2
+Elemento insertado: 406.351, 406.351Columnas del arreglo: 2
+Elemento insertado: 283.679, 283.679Columnas del arreglo: 2
+Elemento insertado: 288.702, 288.702Columnas del arreglo: 2
+Elemento insertado: 490.424, 490.424Columnas del arreglo: 2
+Elemento insertado: 219.699, 219.699Columnas del arreglo: 2
+Elemento insertado: 14696.643, 14696.643Columnas del arreglo: 2
+Elemento insertado: 10871.227, 10871.227Columnas del arreglo: 2
+Elemento insertado: 425.915, 425.915Columnas del arreglo: 2
+Elemento insertado: 216.527, 216.527Columnas del arreglo: 2
+Elemento insertado: 12576.706, 12576.706Columnas del arreglo: 2
+Elemento insertado: 816.139, 816.139Columnas del arreglo: 2
+Elemento insertado: 335.762, 335.762Columnas del arreglo: 2
+Elemento insertado: 636.361, 636.361Columnas del arreglo: 2
+Elemento insertado: 181.364, 181.364Columnas del arreglo: 2
+Elemento insertado: 702.72, 702.72Columnas del arreglo: 2
+Elemento insertado: 347.923, 347.923Columnas del arreglo: 2
+Elemento insertado: 482.492, 482.492Columnas del arreglo: 2
+Elemento insertado: 536.161, 536.161Columnas del arreglo: 2
+Elemento insertado: 285.53, 285.53Columnas del arreglo: 2
+Elemento insertado: 666.236, 666.236Columnas del arreglo: 2
+Elemento insertado: 674.96, 674.96Columnas del arreglo: 2
+Elemento insertado: 0, 0Columnas del arreglo: 2
+Elemento insertado: 333.382, 333.382Columnas del arreglo: 2
+Elemento insertado: 774.367, 774.367Columnas del arreglo: 2
+Elemento insertado: 227.631, 227.631Columnas del arreglo: 2
+Elemento insertado: 423.8, 423.8Columnas del arreglo: 2
+Elemento insertado: 297.691, 297.691Columnas del arreglo: 2
+Elemento insertado: 235.562, 235.562Columnas del arreglo: 2
+Elemento insertado: 278.391, 278.391Columnas del arreglo: 2
+Elemento insertado: 348.188, 348.188Columnas del arreglo: 2
+Elemento insertado: 244.815, 244.815Columnas del arreglo: 2
+Elemento insertado: 634.775, 634.775Columnas del arreglo: 2
+Elemento insertado: 725.986, 725.986Columnas del arreglo: 2
+Elemento insertado: 377.798, 377.798Columnas del arreglo: 2
+Elemento insertado: 251.689, 251.689Columnas del arreglo: 2
+Elemento insertado: 9594.502, 9594.502Columnas del arreglo: 2
+Elemento insertado: 743.963, 743.963Columnas del arreglo: 2
+Elemento insertado: 1107.485, 1107.485Columnas del arreglo: 2
+Elemento insertado: 8598.846, 8598.846Columnas del arreglo: 2
+Elemento insertado: 164.18, 164.18Columnas del arreglo: 2
+Elemento insertado: 700.076, 700.076Columnas del arreglo: 2
+Elemento insertado: 465.836, 465.836Columnas del arreglo: 2
+Elemento insertado: 440.192, 440.192Columnas del arreglo: 2
+Elemento insertado: 9746.947, 9746.947Columnas del arreglo: 2
+Elemento insertado: 10976.034, 10976.034Columnas del arreglo: 2
+Elemento insertado: 351.625, 351.625Columnas del arreglo: 2
+Elemento insertado: 427.237, 427.237Columnas del arreglo: 2
+Elemento insertado: 327.037, 327.037Columnas del arreglo: 2
+Elemento insertado: 370.66, 370.66Columnas del arreglo: 2
+Elemento insertado: 434.375, 434.375Columnas del arreglo: 2
+Elemento insertado: 718.319, 718.319Columnas del arreglo: 2
+Elemento insertado: 486.722, 486.722Columnas del arreglo: 2
+Elemento insertado: 498.619, 498.619Columnas del arreglo: 2
+Elemento insertado: 412.167, 412.167Columnas del arreglo: 2
+Elemento insertado: 334.175, 334.175Columnas del arreglo: 2
+Elemento insertado: 311.703, 311.703Columnas del arreglo: 2
+Elemento insertado: 6640.881, 6640.881Columnas del arreglo: 2
+Elemento insertado: 4373.263, 4373.263Columnas del arreglo: 2
+Elemento insertado: 256.977, 256.977Columnas del arreglo: 2
+Elemento insertado: 238.999, 238.999Columnas del arreglo: 2
+Elemento insertado: 438.341, 438.341Columnas del arreglo: 2
+Elemento insertado: 2663.022, 2663.022Columnas del arreglo: 2
+Elemento insertado: 184.272, 184.272Columnas del arreglo: 2
+Elemento insertado: 265.437, 265.437Columnas del arreglo: 2
+Elemento insertado: 200.664, 200.664Columnas del arreglo: 2
+Elemento insertado: 363.786, 363.786Columnas del arreglo: 2
+Elemento insertado: 415.34, 415.34Columnas del arreglo: 2
+Elemento insertado: 474.032, 474.032Columnas del arreglo: 2
+Elemento insertado: 246.666, 246.666Columnas del arreglo: 2
+Elemento insertado: 7241.133, 7241.133Columnas del arreglo: 2
+Elemento insertado: 146.202, 146.202Columnas del arreglo: 2
+Elemento insertado: 5783.379, 5783.379Columnas del arreglo: 2
+Elemento insertado: 193.526, 193.526Columnas del arreglo: 2
+Elemento insertado: 388.902, 388.902Columnas del arreglo: 2
+Elemento insertado: 5449.906, 5449.906Columnas del arreglo: 2
+Elemento insertado: 20494.313, 20494.313Columnas del arreglo: 2
+Elemento insertado: 88.567, 88.567Columnas del arreglo: 2
+Elemento insertado: 4773.431, 4773.431Columnas del arreglo: 2
+Elemento insertado: 173.962, 173.962Columnas del arreglo: 2
+Elemento insertado: 646.936, 646.936Columnas del arreglo: 2
+Elemento insertado: 272.046, 272.046Columnas del arreglo: 2
+Elemento insertado: 330.21, 330.21Columnas del arreglo: 2
+Elemento insertado: 293.99, 293.99Columnas del arreglo: 2
+Elemento insertado: 437.019, 437.019Columnas del arreglo: 2
+Elemento insertado: 3601.511, 3601.511Columnas del arreglo: 2
+Elemento insertado: 5821.49, 5821.49Columnas del arreglo: 2
+Elemento insertado: 137.477, 137.477Columnas del arreglo: 2
+Elemento insertado: 7627.01, 7627.01Columnas del arreglo: 2
+Elemento insertado: 169.467, 169.467Columnas del arreglo: 2
+Elemento insertado: 138.006, 138.006Columnas del arreglo: 2
+Elemento insertado: 5973.935, 5973.935Columnas del arreglo: 2
+Elemento insertado: 113.947, 113.947Columnas del arreglo: 2
+Elemento insertado: 130.075, 130.075Columnas del arreglo: 2
+Elemento insertado: 240.056, 240.056Columnas del arreglo: 2
+Elemento insertado: 174.49, 174.49Columnas del arreglo: 2
+Elemento insertado: 287.909, 287.909Columnas del arreglo: 2
+Elemento insertado: 1429.171, 1429.171Columnas del arreglo: 2
+Elemento insertado: 4382.791, 4382.791Columnas del arreglo: 2
+Elemento insertado: 6617.062, 6617.062Columnas del arreglo: 2
+Elemento insertado: 217.849, 217.849Columnas del arreglo: 2
+Elemento insertado: 226.573, 226.573Columnas del arreglo: 2
+Elemento insertado: 369.867, 369.867Columnas del arreglo: 2
+Elemento insertado: 206.48, 206.48Columnas del arreglo: 2
+Elemento insertado: 6088.269, 6088.269Columnas del arreglo: 2
+Elemento insertado: 294.519, 294.519Columnas del arreglo: 2
+Elemento insertado: 334.175, 334.175Columnas del arreglo: 2
+Elemento insertado: 182.686, 182.686Columnas del arreglo: 2
+Elemento insertado: 261.471, 261.471Columnas del arreglo: 2
+Elemento insertado: 149.639, 149.639Columnas del arreglo: 2
+Elemento insertado: 379.649, 379.649Columnas del arreglo: 2
+Elemento insertado: 141.443, 141.443Columnas del arreglo: 2
+Elemento insertado: 329.945, 329.945Columnas del arreglo: 2
+Elemento insertado: 298.22, 298.22Columnas del arreglo: 2
+Elemento insertado: 197.756, 197.756Columnas del arreglo: 2
+Elemento insertado: 223.665, 223.665Columnas del arreglo: 2
+Elemento insertado: 501.792, 501.792Columnas del arreglo: 2
+Elemento insertado: 289.231, 289.231Columnas del arreglo: 2
+Elemento insertado: 171.847, 171.847Columnas del arreglo: 2
+Elemento insertado: 158.099, 158.099Columnas del arreglo: 2
+Elemento insertado: 5850.073, 5850.073Columnas del arreglo: 2
+Elemento insertado: 308.795, 308.795Columnas del arreglo: 2
+Elemento insertado: 304.565, 304.565Columnas del arreglo: 2
+Elemento insertado: 7836.621, 7836.621Columnas del arreglo: 2
+Elemento insertado: 10142.351, 10142.351Columnas del arreglo: 2
+Elemento insertado: 302.45, 302.45Columnas del arreglo: 2
+Elemento insertado: 311.703, 311.703Columnas del arreglo: 2
+Elemento insertado: 359.292, 359.292Columnas del arreglo: 2
+Elemento insertado: 145.937, 145.937Columnas del arreglo: 2
+Elemento insertado: 97.027, 97.027Columnas del arreglo: 2
+Elemento insertado: 127.431, 127.431Columnas del arreglo: 2
+Elemento insertado: 130.868, 130.868Columnas del arreglo: 2
+Elemento insertado: 304.829, 304.829Columnas del arreglo: 2
+Elemento insertado: 295.576, 295.576Columnas del arreglo: 2
+Elemento insertado: 223.929, 223.929Columnas del arreglo: 2
+Elemento insertado: 250.896, 250.896Columnas del arreglo: 2
+Elemento insertado: 0, 0Columnas del arreglo: 2
+Elemento insertado: 0, 0Columnas del arreglo: 2
+Elemento insertado: 367.223, 367.223Columnas del arreglo: 2
+Elemento insertado: 122.672, 122.672Columnas del arreglo: 2
+Elemento insertado: 150.696, 150.696Columnas del arreglo: 2
+Elemento insertado: 90.153, 90.153Columnas del arreglo: 2
+Elemento insertado: 145.673, 145.673Columnas del arreglo: 2
+Elemento insertado: 161.8, 161.8Columnas del arreglo: 2
+Elemento insertado: 92.797, 92.797Columnas del arreglo: 2
+Elemento insertado: 161.271, 161.271Columnas del arreglo: 2
+Elemento insertado: 235.562, 235.562Columnas del arreglo: 2
+Elemento insertado: 138.006, 138.006Columnas del arreglo: 2
+Elemento insertado: 184.537, 184.537Columnas del arreglo: 2
+Elemento insertado: 143.294, 143.294Columnas del arreglo: 2
+Elemento insertado: 146.731, 146.731Columnas del arreglo: 2
+Elemento insertado: 102.05, 102.05Columnas del arreglo: 2
+Elemento insertado: 144.087, 144.087Columnas del arreglo: 2
+Elemento insertado: 322.014, 322.014Columnas del arreglo: 2
+Elemento insertado: 119.499, 119.499Columnas del arreglo: 2
+Elemento insertado: 148.581, 148.581Columnas del arreglo: 2
+Elemento insertado: 216.527, 216.527Columnas del arreglo: 2
+Elemento insertado: 121.879, 121.879Columnas del arreglo: 2
+Elemento insertado: 169.203, 169.203Columnas del arreglo: 2
+Elemento insertado: 136.42, 136.42Columnas del arreglo: 2
+Elemento insertado: 159.685, 159.685Columnas del arreglo: 2
+Elemento insertado: 311.703, 311.703Columnas del arreglo: 2
+Elemento insertado: 181.893, 181.893Columnas del arreglo: 2
+Elemento insertado: 253.54, 253.54Columnas del arreglo: 2
+Elemento insertado: 244.815, 244.815Columnas del arreglo: 2
+Elemento insertado: 208.331, 208.331Columnas del arreglo: 2
+Elemento insertado: 6088.269, 6088.269Columnas del arreglo: 2
+Elemento insertado: 4020.735, 4020.735Columnas del arreglo: 2
+Elemento insertado: 195.641, 195.641Columnas del arreglo: 2
+Elemento insertado: 212.297, 212.297Columnas del arreglo: 2
+Elemento insertado: 134.04, 134.04Columnas del arreglo: 2
+Elemento insertado: 117.649, 117.649Columnas del arreglo: 2
+Elemento insertado: 143.029, 143.029Columnas del arreglo: 2
+Elemento insertado: 230.539, 230.539Columnas del arreglo: 2
+Elemento insertado: 120.557, 120.557Columnas del arreglo: 2
+Elemento insertado: 270.196, 270.196Columnas del arreglo: 2
+Elemento insertado: 305.887, 305.887Columnas del arreglo: 2
+Elemento insertado: 4606.694, 4606.694Columnas del arreglo: 2
+Elemento insertado: 6726.631, 6726.631Columnas del arreglo: 2
+Elemento insertado: 107.867, 107.867Columnas del arreglo: 2
+Elemento insertado: 146.995, 146.995Columnas del arreglo: 2
+Elemento insertado: 238.735, 238.735Columnas del arreglo: 2
+Elemento insertado: 132.983, 132.983Columnas del arreglo: 2
+Elemento insertado: 163.651, 163.651Columnas del arreglo: 2
+Elemento insertado: 108.66, 108.66Columnas del arreglo: 2
+Elemento insertado: 179.778, 179.778Columnas del arreglo: 2
+Elemento insertado: 337.348, 337.348Columnas del arreglo: 2
+Elemento insertado: 200.135, 200.135Columnas del arreglo: 2
+Elemento insertado: 224.458, 224.458Columnas del arreglo: 2
+Elemento insertado: 249.838, 249.838Columnas del arreglo: 2
+Elemento insertado: 224.722, 224.722Columnas del arreglo: 2
+Elemento insertado: 174.755, 174.755Columnas del arreglo: 2
+Elemento insertado: 145.673, 145.673Columnas del arreglo: 2
+Elemento insertado: 205.158, 205.158Columnas del arreglo: 2
+Elemento insertado: 182.686, 182.686Columnas del arreglo: 2
+Elemento insertado: 144.88, 144.88Columnas del arreglo: 2
+Elemento insertado: 290.024, 290.024Columnas del arreglo: 2
+Elemento insertado: 138.27, 138.27Columnas del arreglo: 2
+Elemento insertado: 238.206, 238.206Columnas del arreglo: 2
+Elemento insertado: 170.26, 170.26Columnas del arreglo: 2
+Elemento insertado: 191.146, 191.146Columnas del arreglo: 2
+Elemento insertado: 149.639, 149.639Columnas del arreglo: 2
+Elemento insertado: 398.684, 398.684Columnas del arreglo: 2
+Elemento insertado: 215.998, 215.998Columnas del arreglo: 2
+Elemento insertado: 189.824, 189.824Columnas del arreglo: 2
+Elemento insertado: 186.916, 186.916Columnas del arreglo: 2
+Elemento insertado: 249.838, 249.838Columnas del arreglo: 2
+Elemento insertado: 244.815, 244.815Columnas del arreglo: 2
+Elemento insertado: 176.605, 176.605Columnas del arreglo: 2
+Elemento insertado: 108.924, 108.924Columnas del arreglo: 2
+Elemento insertado: 165.237, 165.237Columnas del arreglo: 2
+Elemento insertado: 98.349, 98.349Columnas del arreglo: 2
+Elemento insertado: 123.73, 123.73Columnas del arreglo: 2
+Elemento insertado: 206.48, 206.48Columnas del arreglo: 2
+Elemento insertado: 160.478, 160.478Columnas del arreglo: 2
+Elemento insertado: 123.201, 123.201Columnas del arreglo: 2
+Elemento insertado: 131.661, 131.661Columnas del arreglo: 2
+Elemento insertado: 181.629, 181.629Columnas del arreglo: 2
+Elemento insertado: 114.212, 114.212Columnas del arreglo: 2
+Elemento insertado: 159.949, 159.949Columnas del arreglo: 2
+Elemento insertado: 80.9, 80.9Columnas del arreglo: 2
+Elemento insertado: 89.625, 89.625Columnas del arreglo: 2
+Elemento insertado: 46.002, 46.002Columnas del arreglo: 2
+Elemento insertado: 96.498, 96.498Columnas del arreglo: 2
+Elemento insertado: 3134.649, 3134.649Columnas del arreglo: 2
+Elemento insertado: 117.384, 117.384Columnas del arreglo: 2
+Elemento insertado: 98.613, 98.613Columnas del arreglo: 2
+Elemento insertado: 95.177, 95.177Columnas del arreglo: 2
+Elemento insertado: 95.177, 95.177Columnas del arreglo: 2
+Elemento insertado: 16.656, 16.656Columnas del arreglo: 2
+Elemento insertado: 135.362, 135.362Columnas del arreglo: 2
+Elemento insertado: 160.743, 160.743Columnas del arreglo: 2
+Elemento insertado: 107.338, 107.338Columnas del arreglo: 2
+Elemento insertado: 142.236, 142.236Columnas del arreglo: 2
+Elemento insertado: 82.222, 82.222Columnas del arreglo: 2
+Elemento insertado: 172.375, 172.375Columnas del arreglo: 2
+Elemento insertado: 208.331, 208.331Columnas del arreglo: 2
+Elemento insertado: 2824.995, 2824.995Columnas del arreglo: 2
+Elemento insertado: 19541.532, 19541.532Columnas del arreglo: 2
+Elemento insertado: 3649.151, 3649.151Columnas del arreglo: 2
+Elemento insertado: 5783.379, 5783.379Columnas del arreglo: 2
+Elemento insertado: 8374.942, 8374.942Columnas del arreglo: 2
+Elemento insertado: 2229.507, 2229.507Columnas del arreglo: 2
+Elemento insertado: 11404.785, 11404.785Columnas del arreglo: 2
+Elemento insertado: 32666.086, 32666.086Columnas del arreglo: 2
+Elemento insertado: 3572.927, 3572.927Columnas del arreglo: 2
+Elemento insertado: 144.351, 144.351Columnas del arreglo: 2
+Elemento insertado: 19136.6, 19136.6Columnas del arreglo: 2
+Elemento insertado: 3692.025, 3692.025Columnas del arreglo: 2
+Elemento insertado: 218.642, 218.642Columnas del arreglo: 2
+Elemento insertado: 294.783, 294.783Columnas del arreglo: 2
+Elemento insertado: 150.696, 150.696Columnas del arreglo: 2
+Elemento insertado: 0, 0Columnas del arreglo: 2
+Elemento insertado: 312.232, 312.232Columnas del arreglo: 2
+Elemento insertado: 10309.087, 10309.087Columnas del arreglo: 2
+Elemento insertado: 416.662, 416.662Columnas del arreglo: 2
+Elemento insertado: 7588.898, 7588.898Columnas del arreglo: 2
+Elemento insertado: 12595.761, 12595.761Columnas del arreglo: 2
+Elemento insertado: 15030.115, 15030.115Columnas del arreglo: 2
+Elemento insertado: 20522.896, 20522.896Columnas del arreglo: 2
+Elemento insertado: 552.288, 552.288Columnas del arreglo: 2
+Elemento insertado: 171.847, 171.847Columnas del arreglo: 2
+Elemento insertado: 337.612, 337.612Columnas del arreglo: 2
+Elemento insertado: 40745.667, 40745.667Columnas del arreglo: 2
+Elemento insertado: 453.411, 453.411Columnas del arreglo: 2
+Elemento insertado: 389.166, 389.166Columnas del arreglo: 2
+Elemento insertado: 7808.038, 7808.038Columnas del arreglo: 2
+Elemento insertado: 504.7, 504.7Columnas del arreglo: 2
+Elemento insertado: 354.533, 354.533Columnas del arreglo: 2
+Elemento insertado: 585.336, 585.336Columnas del arreglo: 2
+Elemento insertado: 627.372, 627.372Columnas del arreglo: 2
+Elemento insertado: 234.24, 234.24Columnas del arreglo: 2
+Elemento insertado: 364.315, 364.315Columnas del arreglo: 2
+Elemento insertado: 2948.856, 2948.856Columnas del arreglo: 2
+Elemento insertado: 11338.09, 11338.09Columnas del arreglo: 2
+Elemento insertado: 318.048, 318.048Columnas del arreglo: 2
+Elemento insertado: 422.214, 422.214Columnas del arreglo: 2
+Elemento insertado: 260.678, 260.678Columnas del arreglo: 2
+Elemento insertado: 380.706, 380.706Columnas del arreglo: 2
+Elemento insertado: 380.177, 380.177Columnas del arreglo: 2
+Elemento insertado: 345.808, 345.808Columnas del arreglo: 2
+Elemento insertado: 149.374, 149.374Columnas del arreglo: 2
+Elemento insertado: 403.443, 403.443Columnas del arreglo: 2
+Elemento insertado: 423.007, 423.007Columnas del arreglo: 2
+Elemento insertado: 1257.652, 1257.652Columnas del arreglo: 2
+Elemento insertado: 4830.598, 4830.598Columnas del arreglo: 2
+Elemento insertado: 315.933, 315.933Columnas del arreglo: 2
+Elemento insertado: 457.641, 457.641Columnas del arreglo: 2
+Elemento insertado: 645.879, 645.879Columnas del arreglo: 2
+Elemento insertado: 388.638, 388.638Columnas del arreglo: 2
+Elemento insertado: 292.932, 292.932Columnas del arreglo: 2
+Elemento insertado: 330.21, 330.21Columnas del arreglo: 2
+Elemento insertado: 343.429, 343.429Columnas del arreglo: 2
+Elemento insertado: 3763.484, 3763.484Columnas del arreglo: 2
+Elemento insertado: 377.005, 377.005Columnas del arreglo: 2
+Elemento insertado: 296.369, 296.369Columnas del arreglo: 2
+Elemento insertado: 598.29, 598.29Columnas del arreglo: 2
+Elemento insertado: 414.547, 414.547Columnas del arreglo: 2
+Elemento insertado: 465.572, 465.572Columnas del arreglo: 2
+Elemento insertado: 635.568, 635.568Columnas del arreglo: 2
+Elemento insertado: 277.334, 277.334Columnas del arreglo: 2
+Elemento insertado: 300.071, 300.071Columnas del arreglo: 2
+Elemento insertado: 291.082, 291.082Columnas del arreglo: 2
+Elemento insertado: 568.416, 568.416Columnas del arreglo: 2
+Elemento insertado: 14734.754, 14734.754Columnas del arreglo: 2
+Elemento insertado: 299.806, 299.806Columnas del arreglo: 2
+Elemento insertado: 256.712, 256.712Columnas del arreglo: 2
+Elemento insertado: 5321.28, 5321.28Columnas del arreglo: 2
+Elemento insertado: 348.188, 348.188Columnas del arreglo: 2
+Elemento insertado: 13019.749, 13019.749Columnas del arreglo: 2
+Elemento insertado: 442.835, 442.835Columnas del arreglo: 2
+Elemento insertado: 8870.388, 8870.388Columnas del arreglo: 2
+Elemento insertado: 298.22, 298.22Columnas del arreglo: 2
+Elemento insertado: 360.613, 360.613Columnas del arreglo: 2
+Elemento insertado: 364.315, 364.315Columnas del arreglo: 2
+Elemento insertado: 309.853, 309.853Columnas del arreglo: 2
+Elemento insertado: 271.782, 271.782Columnas del arreglo: 2
+Elemento insertado: 361.671, 361.671Columnas del arreglo: 2
+Elemento insertado: 334.969, 334.969Columnas del arreglo: 2
+Elemento insertado: 240.85, 240.85Columnas del arreglo: 2
+Elemento insertado: 276.541, 276.541Columnas del arreglo: 2
+Elemento insertado: 228.424, 228.424Columnas del arreglo: 2
+Elemento insertado: 635.832, 635.832Columnas del arreglo: 2
+Elemento insertado: 381.499, 381.499Columnas del arreglo: 2
+Elemento insertado: 396.305, 396.305Columnas del arreglo: 2
+Elemento insertado: 267.023, 267.023Columnas del arreglo: 2
+Elemento insertado: 293.99, 293.99Columnas del arreglo: 2
+Elemento insertado: 619.176, 619.176Columnas del arreglo: 2
+Elemento insertado: 631.073, 631.073Columnas del arreglo: 2
+Elemento insertado: 397.362, 397.362Columnas del arreglo: 2
+Elemento insertado: 312.496, 312.496Columnas del arreglo: 2
+Elemento insertado: 354.268, 354.268Columnas del arreglo: 2
+Elemento insertado: 360.878, 360.878Columnas del arreglo: 2
+Elemento insertado: 0, 0Columnas del arreglo: 2
+Elemento insertado: 7660.356, 7660.356Columnas del arreglo: 2
+Elemento insertado: 17831.291, 17831.291Columnas del arreglo: 2
+Elemento insertado: 10756.894, 10756.894Columnas del arreglo: 2
+Elemento insertado: 360.085, 360.085Columnas del arreglo: 2
+Elemento insertado: 543.3, 543.3Columnas del arreglo: 2
+Elemento insertado: 422.478, 422.478Columnas del arreglo: 2
+Elemento insertado: 3425.247, 3425.247Columnas del arreglo: 2
+Elemento insertado: 343.429, 343.429Columnas del arreglo: 2
+Elemento insertado: 6845.729, 6845.729Columnas del arreglo: 2
+Elemento insertado: 6026.338, 6026.338Columnas del arreglo: 2
+Elemento insertado: 4478.07, 4478.07Columnas del arreglo: 2
+Elemento insertado: 197.227, 197.227Columnas del arreglo: 2
+Elemento insertado: 4339.916, 4339.916Columnas del arreglo: 2
+Elemento insertado: 4430.43, 4430.43Columnas del arreglo: 2
+Elemento insertado: 10042.308, 10042.308Columnas del arreglo: 2
+Elemento insertado: 436.226, 436.226Columnas del arreglo: 2
+Elemento insertado: 397.891, 397.891Columnas del arreglo: 2
+Elemento insertado: 377.798, 377.798Columnas del arreglo: 2
+Elemento insertado: 343.429, 343.429Columnas del arreglo: 2
+Elemento insertado: 407.937, 407.937Columnas del arreglo: 2
+Elemento insertado: 204.365, 204.365Columnas del arreglo: 2
+Elemento insertado: 355.326, 355.326Columnas del arreglo: 2
+Elemento insertado: 367.487, 367.487Columnas del arreglo: 2
+Elemento insertado: 331.267, 331.267Columnas del arreglo: 2
+Elemento insertado: 543.828, 543.828Columnas del arreglo: 2
+Elemento insertado: 541.449, 541.449Columnas del arreglo: 2
+Elemento insertado: 518.977, 518.977Columnas del arreglo: 2
+Elemento insertado: 258.563, 258.563Columnas del arreglo: 2
+Elemento insertado: 427.766, 427.766Columnas del arreglo: 2
+Elemento insertado: 317.784, 317.784Columnas del arreglo: 2
+Elemento insertado: 264.908, 264.908Columnas del arreglo: 2
+Elemento insertado: 154.133, 154.133Columnas del arreglo: 2
+Elemento insertado: 312.496, 312.496Columnas del arreglo: 2
+Elemento insertado: 231.068, 231.068Columnas del arreglo: 2
+Elemento insertado: 102.05, 102.05Columnas del arreglo: 2
+Elemento insertado: 252.747, 252.747Columnas del arreglo: 2
+Elemento insertado: 280.506, 280.506Columnas del arreglo: 2
+Elemento insertado: 314.611, 314.611Columnas del arreglo: 2
+Elemento insertado: 349.509, 349.509Columnas del arreglo: 2
+Elemento insertado: 173.962, 173.962Columnas del arreglo: 2
+Elemento insertado: 115.269, 115.269Columnas del arreglo: 2
+Elemento insertado: 148.846, 148.846Columnas del arreglo: 2
+Elemento insertado: 100.464, 100.464Columnas del arreglo: 2
+Elemento insertado: 85.923, 85.923Columnas del arreglo: 2
+Elemento insertado: 522.149, 522.149Columnas del arreglo: 2
+Elemento insertado: 315.405, 315.405Columnas del arreglo: 2
+Elemento insertado: 202.779, 202.779Columnas del arreglo: 2
+Elemento insertado: 228.952, 228.952Columnas del arreglo: 2
+Elemento insertado: 340.785, 340.785Columnas del arreglo: 2
+Elemento insertado: 301.921, 301.921Columnas del arreglo: 2
+Elemento insertado: 262.529, 262.529Columnas del arreglo: 2
+Elemento insertado: 209.917, 209.917Columnas del arreglo: 2
+Elemento insertado: 346.073, 346.073Columnas del arreglo: 2
+Elemento insertado: 208.067, 208.067Columnas del arreglo: 2
+Elemento insertado: 172.904, 172.904Columnas del arreglo: 2
+Elemento insertado: 150.432, 150.432Columnas del arreglo: 2
+Elemento insertado: 331.267, 331.267Columnas del arreglo: 2
+Elemento insertado: 228.952, 228.952Columnas del arreglo: 2
+Elemento insertado: 141.443, 141.443Columnas del arreglo: 2
+Elemento insertado: 228.159, 228.159Columnas del arreglo: 2
+Elemento insertado: 362.993, 362.993Columnas del arreglo: 2
+Elemento insertado: 4606.694, 4606.694Columnas del arreglo: 2
+Elemento insertado: 339.199, 339.199Columnas del arreglo: 2
+Elemento insertado: 262.529, 262.529Columnas del arreglo: 2
+Elemento insertado: 249.574, 249.574Columnas del arreglo: 2
+Elemento insertado: 464.25, 464.25Columnas del arreglo: 2
+Elemento insertado: 282.621, 282.621Columnas del arreglo: 2
+Elemento insertado: 305.887, 305.887Columnas del arreglo: 2
+Elemento insertado: 6983.883, 6983.883Columnas del arreglo: 2
+Elemento insertado: 229.746, 229.746Columnas del arreglo: 2
+Elemento insertado: 235.562, 235.562Columnas del arreglo: 2
+Elemento insertado: 121.35, 121.35Columnas del arreglo: 2
+Elemento insertado: 219.435, 219.435Columnas del arreglo: 2
+Elemento insertado: 154.133, 154.133Columnas del arreglo: 2
+Elemento insertado: 243.758, 243.758Columnas del arreglo: 2
+Elemento insertado: 4.494, 4.494Columnas del arreglo: 2
+Elemento insertado: 377.798, 377.798Columnas del arreglo: 2
+Elemento insertado: 344.222, 344.222Columnas del arreglo: 2
+Elemento insertado: 103.372, 103.372Columnas del arreglo: 2
+Elemento insertado: 267.552, 267.552Columnas del arreglo: 2
+Elemento insertado: 456.583, 456.583Columnas del arreglo: 2
+Elemento insertado: 766.7, 766.7Columnas del arreglo: 2
+Elemento insertado: 407.673, 407.673Columnas del arreglo: 2
+Elemento insertado: 241.378, 241.378Columnas del arreglo: 2
+Elemento insertado: 378.591, 378.591Columnas del arreglo: 2
+Elemento insertado: 516.068, 516.068Columnas del arreglo: 2
+Elemento insertado: 178.985, 178.985Columnas del arreglo: 2
+Elemento insertado: 325.98, 325.98Columnas del arreglo: 2
+Elemento insertado: 251.16, 251.16Columnas del arreglo: 2
+Elemento insertado: 10113.767, 10113.767Columnas del arreglo: 2
+Elemento insertado: 6002.518, 6002.518Columnas del arreglo: 2
+Elemento insertado: 351.096, 351.096Columnas del arreglo: 2
+Elemento insertado: 246.666, 246.666Columnas del arreglo: 2
+Elemento insertado: 221.021, 221.021Columnas del arreglo: 2
+Elemento insertado: 320.428, 320.428Columnas del arreglo: 2
+Elemento insertado: 371.982, 371.982Columnas del arreglo: 2
+Elemento insertado: 186.916, 186.916Columnas del arreglo: 2
+Elemento insertado: 553.875, 553.875Columnas del arreglo: 2
+Elemento insertado: 212.561, 212.561Columnas del arreglo: 2
+Elemento insertado: 498.355, 498.355Columnas del arreglo: 2
+Elemento insertado: 412.167, 412.167Columnas del arreglo: 2
+Elemento insertado: 564.185, 564.185Columnas del arreglo: 2
+Elemento insertado: 108.66, 108.66Columnas del arreglo: 2
+Elemento insertado: 223.136, 223.136Columnas del arreglo: 2
+Elemento insertado: 194.848, 194.848Columnas del arreglo: 2
+Elemento insertado: 286.058, 286.058Columnas del arreglo: 2
+Elemento insertado: 406.615, 406.615Columnas del arreglo: 2
+Elemento insertado: 472.975, 472.975Columnas del arreglo: 2
+Elemento insertado: 315.669, 315.669Columnas del arreglo: 2
+Elemento insertado: 11581.05, 11581.05Columnas del arreglo: 2
+Elemento insertado: 16973.788, 16973.788Columnas del arreglo: 2
+Elemento insertado: 649.051, 649.051Columnas del arreglo: 2
+Elemento insertado: 264.644, 264.644Columnas del arreglo: 2
+Elemento insertado: 617.854, 617.854Columnas del arreglo: 2
+Elemento insertado: 273.368, 273.368Columnas del arreglo: 2
+Elemento insertado: 275.748, 275.748Columnas del arreglo: 2
+Elemento insertado: 13677.167, 13677.167Columnas del arreglo: 2
+Elemento insertado: 532.724, 532.724Columnas del arreglo: 2
+Elemento insertado: 585.336, 585.336Columnas del arreglo: 2
+Elemento insertado: 434.375, 434.375Columnas del arreglo: 2
+Elemento insertado: 449.445, 449.445Columnas del arreglo: 2
+Elemento insertado: 432.26, 432.26Columnas del arreglo: 2
+Elemento insertado: 285.53, 285.53Columnas del arreglo: 2
+Elemento insertado: 658.833, 658.833Columnas del arreglo: 2
+Elemento insertado: 453.939, 453.939Columnas del arreglo: 2
+Elemento insertado: 509.459, 509.459Columnas del arreglo: 2
+Elemento insertado: 140.914, 140.914Columnas del arreglo: 2
+Elemento insertado: 311.703, 311.703Columnas del arreglo: 2
+Elemento insertado: 369.602, 369.602Columnas del arreglo: 2
+Elemento insertado: 177.399, 177.399Columnas del arreglo: 2
+Elemento insertado: 294.783, 294.783Columnas del arreglo: 2
+Elemento insertado: 205.423, 205.423Columnas del arreglo: 2
+Elemento insertado: 289.495, 289.495Columnas del arreglo: 2
+Elemento insertado: 303.772, 303.772Columnas del arreglo: 2
+Elemento insertado: 178.456, 178.456Columnas del arreglo: 2
+Elemento insertado: 334.704, 334.704Columnas del arreglo: 2
+Elemento insertado: 158.099, 158.099Columnas del arreglo: 2
+Elemento insertado: 205.951, 205.951Columnas del arreglo: 2
+Elemento insertado: 2920.273, 2920.273Columnas del arreglo: 2
+Elemento insertado: 196.434, 196.434Columnas del arreglo: 2
+Elemento insertado: 222.872, 222.872Columnas del arreglo: 2
+Elemento insertado: 219.435, 219.435Columnas del arreglo: 2
+Elemento insertado: 8474.984, 8474.984Columnas del arreglo: 2
+Elemento insertado: 89.625, 89.625Columnas del arreglo: 2
+Elemento insertado: 274.954, 274.954Columnas del arreglo: 2
+Elemento insertado: 311.439, 311.439Columnas del arreglo: 2
+Elemento insertado: 11914.522, 11914.522Columnas del arreglo: 2
+Elemento insertado: 3344.26, 3344.26Columnas del arreglo: 2
+Elemento insertado: 263.322, 263.322Columnas del arreglo: 2
+Elemento insertado: 0, 0Columnas del arreglo: 2
+Elemento insertado: 3801.595, 3801.595Columnas del arreglo: 2
+Elemento insertado: 793.138, 793.138Columnas del arreglo: 2
+Elemento insertado: 30612.844, 30612.844Columnas del arreglo: 2
+Elemento insertado: 5111.669, 5111.669Columnas del arreglo: 2
+Elemento insertado: 16778.468, 16778.468Columnas del arreglo: 2
+Elemento insertado: 4192.235, 4192.235Columnas del arreglo: 2
+Elemento insertado: 3773.012, 3773.012Columnas del arreglo: 2
+Elemento insertado: 13300.818, 13300.818Columnas del arreglo: 2
+Elemento insertado: 8589.318, 8589.318Columnas del arreglo: 2
+Elemento insertado: 16130.577, 16130.577Columnas del arreglo: 2
+Elemento insertado: 12691.039, 12691.039Columnas del arreglo: 2
+Elemento insertado: 5726.212, 5726.212Columnas del arreglo: 2
+Elemento insertado: 12086.023, 12086.023Columnas del arreglo: 2
+Elemento insertado: 17740.777, 17740.777Columnas del arreglo: 2
+Elemento insertado: 9218.153, 9218.153Columnas del arreglo: 2
+Elemento insertado: 324.922, 324.922Columnas del arreglo: 2
+Elemento insertado: 509.988, 509.988Columnas del arreglo: 2
+Elemento insertado: 3591.983, 3591.983Columnas del arreglo: 2
+Elemento insertado: 277.334, 277.334Columnas del arreglo: 2
+Elemento insertado: 542.242, 542.242Columnas del arreglo: 2
+Elemento insertado: 9618.321, 9618.321Columnas del arreglo: 2
+Elemento insertado: 794.46, 794.46Columnas del arreglo: 2
+Elemento insertado: 546.472, 546.472Columnas del arreglo: 2
+Elemento insertado: 826.45, 826.45Columnas del arreglo: 2
+Elemento insertado: 14320.294, 14320.294Columnas del arreglo: 2
+Elemento insertado: 17069.067, 17069.067Columnas del arreglo: 2
+Elemento insertado: 333.647, 333.647Columnas del arreglo: 2
+Elemento insertado: 431.467, 431.467Columnas del arreglo: 2
+Elemento insertado: 4392.319, 4392.319Columnas del arreglo: 2
+Elemento insertado: 5597.586, 5597.586Columnas del arreglo: 2
+Elemento insertado: 1748.353, 1748.353Columnas del arreglo: 2
+Elemento insertado: 6731.396, 6731.396Columnas del arreglo: 2
+Elemento insertado: 14877.671, 14877.671Columnas del arreglo: 2
+Elemento insertado: 14167.849, 14167.849Columnas del arreglo: 2
+Elemento insertado: 2667.786, 2667.786Columnas del arreglo: 2
+Elemento insertado: 14610.892, 14610.892Columnas del arreglo: 2
+Elemento insertado: 19913.117, 19913.117Columnas del arreglo: 2
+Elemento insertado: 6002.518, 6002.518Columnas del arreglo: 2
+Elemento insertado: 18979.391, 18979.391Columnas del arreglo: 2
+Elemento insertado: 34833.662, 34833.662Columnas del arreglo: 2
+Elemento insertado: 29488.562, 29488.562Columnas del arreglo: 2
+Elemento insertado: 13624.764, 13624.764Columnas del arreglo: 2
+Elemento insertado: 7350.704, 7350.704Columnas del arreglo: 2
+Elemento insertado: 18317.209, 18317.209Columnas del arreglo: 2
+Elemento insertado: 12438.552, 12438.552Columnas del arreglo: 2
+Elemento insertado: 6983.883, 6983.883Columnas del arreglo: 2
+Elemento insertado: 10780.714, 10780.714Columnas del arreglo: 2
+Elemento insertado: 6045.394, 6045.394Columnas del arreglo: 2
+Elemento insertado: 7364.995, 7364.995Columnas del arreglo: 2
+Elemento insertado: 3787.303, 3787.303Columnas del arreglo: 2
+Elemento insertado: 8775.11, 8775.11Columnas del arreglo: 2
+Elemento insertado: 20846.842, 20846.842Columnas del arreglo: 2
+Elemento insertado: 17778.888, 17778.888Columnas del arreglo: 2
+Elemento insertado: 10904.575, 10904.575Columnas del arreglo: 2
+Elemento insertado: 453.411, 453.411Columnas del arreglo: 2
+Elemento insertado: 216.527, 216.527Columnas del arreglo: 2
+Elemento insertado: 2324.785, 2324.785Columnas del arreglo: 2
+Elemento insertado: 21918.72, 21918.72Columnas del arreglo: 2
+Elemento insertado: 18474.418, 18474.418Columnas del arreglo: 2
+Elemento insertado: 6469.381, 6469.381Columnas del arreglo: 2
+Elemento insertado: 19565.352, 19565.352Columnas del arreglo: 2
+Elemento insertado: 8608.373, 8608.373Columnas del arreglo: 2
+Elemento insertado: 399.742, 399.742Columnas del arreglo: 2
+Elemento insertado: 11133.242, 11133.242Columnas del arreglo: 2
+Elemento insertado: 3858.762, 3858.762Columnas del arreglo: 2
+Elemento insertado: 3601.511, 3601.511Columnas del arreglo: 2
+Elemento insertado: 10032.78, 10032.78Columnas del arreglo: 2
+Elemento insertado: 3520.525, 3520.525Columnas del arreglo: 2
+Elemento insertado: 6436.033, 6436.033Columnas del arreglo: 2
+Elemento insertado: 360.613, 360.613Columnas del arreglo: 2
+Elemento insertado: 247.195, 247.195Columnas del arreglo: 2
+Elemento insertado: 337.348, 337.348Columnas del arreglo: 2
+Elemento insertado: 7303.065, 7303.065Columnas del arreglo: 2
+Elemento insertado: 439.134, 439.134Columnas del arreglo: 2
+Elemento insertado: 344.751, 344.751Columnas del arreglo: 2
+Elemento insertado: 146.202, 146.202Columnas del arreglo: 2
+Elemento insertado: 6112.088, 6112.088Columnas del arreglo: 2
+Elemento insertado: 4668.626, 4668.626Columnas del arreglo: 2
+Elemento insertado: 3449.066, 3449.066Columnas del arreglo: 2
+Elemento insertado: 6888.605, 6888.605Columnas del arreglo: 2
+Elemento insertado: 205.687, 205.687Tamaño del vector: 701
+termina de añadir localidades: 700
+objeto por crear
+Valor de bound: 539 x 539
+objeto creado
+antes de entrar a kernel

@@ -1,0 +1,21 @@
+Friction Map: fricc_w.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:999999.000000
+NEW 2nd Max Val: 2.100000
+NEW 2nd Max Val: 4.500000
+NEW 2nd Max Val: 9.000000
+The Second Max Val Is: 9.000000
+Avg Frict: 9164.833008
+100.000000
+Min: 0.400000	Max:999999.000000
+9001
+Source = 
+rows: 3784cols: 4356TIFF to matrix = 0.730000 secs.
+termina de añadir localidades: 1940
+objeto por crear
+objeto creado
+antes de entrar a kernel
+despues de entrar a kernel
+Tiempo de ejecucion en paralelo: 13446789.000000 ms
+Cuda execution finished

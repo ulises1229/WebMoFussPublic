@@ -1,0 +1,37 @@
+Friction Map: Clip_Fricc_10.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:2.250000
+NEW 2nd Max Val: 0.800000
+NEW 2nd Max Val: 1.200000
+The Second Max Val Is: 1.200000
+Avg Frict: 1.052316
+100.000000
+Min: 0.400000	Max:2.250000
+32618
+Source = 
+TIFF to matrix = 0.010000 secs.
+creo la matriz de outputdentro del metodo
+asignados output y cost
+rows: 11, cols 11
+declarados filas y columnas
+Done
+todos los arreglos creados
+Vecinos todos: 
+Coordenadas: 0, 1 = 1
+Coordenadas: 0, 2 = 2
+[1.414214]
+Coordenadas: 1, 2 = 13
+[1.725000]
+Coordenadas: 2, 2 = 24
+[2.439518]
+Coordenadas: 2, 1 = 23
+[1.725000]
+Coordenadas: 2, 0 = 22
+[2.439518]
+Coordenadas: 1, 0 = 11
+[1.000000]
+Coordenadas: 0, 0 = 0
+Comienza a copiar
+Termina de copiar
+Cuda execution finished

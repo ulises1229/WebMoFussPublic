@@ -1,0 +1,39 @@
+Friction Map: Friccion_Clip_50.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:999999.000000
+NEW 2nd Max Val: 0.800000
+NEW 2nd Max Val: 2.250000
+NEW 2nd Max Val: 4.500000
+NEW 2nd Max Val: 9.000000
+The Second Max Val Is: 9.000000
+Avg Frict: 25327.623047
+100.000000
+Min: 0.400000	Max:999999.000000
+32618
+Source = 
+TIFF to matrix = 0.010000 secs.
+dentro del metodo
+asignados output y cost
+rows: 51, cols 51
+declarados filas y columnas
+Done
+todos los arreglos creados
+Vecinos todos: 
+Coordenadas: 0, 2 = 2
+Coordenadas: 0, 3 = 3
+[1.414214]
+Coordenadas: 1, 3 = 54
+[1.725000]
+Coordenadas: 2, 3 = 105
+[2.439518]
+Coordenadas: 2, 2 = 104
+[1.725000]
+Coordenadas: 2, 1 = 103
+[2.439518]
+Coordenadas: 1, 1 = 52
+[1.000000]
+Coordenadas: 0, 1 = 1
+Comienza a copiar
+Termina de copiar
+Cuda execution finished

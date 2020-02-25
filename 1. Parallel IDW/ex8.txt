@@ -1,0 +1,345 @@
+Friction Map: Clip_Fricc_10.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:2.250000
+NEW 2nd Max Val: 0.800000
+NEW 2nd Max Val: 1.200000
+The Second Max Val Is: 1.200000
+Avg Frict: 1.052316
+100.000000
+Min: 0.400000	Max:2.250000
+32618
+Source = 
+TIFF to matrix = 0.010000 secs.
+creo la matriz de outputdentro del metodo
+asignados output y cost
+rows: 11, cols 11
+declarados filas y columnas
+Done
+todos los arreglos creados
+Tamaño actual: 1
+Tamaño actual: 2
+Tamaño actual: 3
+Tamaño actual: 4
+Tamaño actual: 5
+Tamaño actual: 6
+Tamaño actual: 5
+[3.357107]
+Tamaño actual: 2
+[4.157107]
+Tamaño actual: 3
+[4.157107]
+Tamaño actual: 4
+[4.157107]
+Tamaño actual: 3
+[4.957107]
+Tamaño actual: 4
+[4.957107]
+Tamaño actual: 4
+[4.957107]
+Tamaño actual: 3
+[5.757107]
+Tamaño actual: 4
+[5.757107]
+Tamaño actual: 5
+[5.757107]
+Tamaño actual: 5
+[5.757107]
+Tamaño actual: 5
+[5.757107]
+Tamaño actual: 5
+[6.557107]
+Tamaño actual: 6
+[6.557107]
+Tamaño actual: 6
+[6.557107]
+Tamaño actual: 6
+[6.757107]
+Tamaño actual: 6
+[6.557107]
+Tamaño actual: 5
+[7.357108]
+Tamaño actual: 6
+[7.357108]
+Tamaño actual: 6
+[7.357108]
+Tamaño actual: 6
+[7.557107]
+Tamaño actual: 6
+[7.357108]
+Tamaño actual: 7
+[7.357108]
+Tamaño actual: 6
+[8.157107]
+Tamaño actual: 7
+[8.157107]
+Tamaño actual: 7
+[8.157107]
+Tamaño actual: 7
+[8.157107]
+Tamaño actual: 7
+[8.157107]
+Tamaño actual: 8
+[8.157107]
+Tamaño actual: 6
+[8.557107]
+Tamaño actual: 6
+[8.557107]
+Tamaño actual: 6
+[8.557107]
+Tamaño actual: 6
+[8.557107]
+Tamaño actual: 6
+[8.557107]
+Tamaño actual: 6
+[8.557107]
+Tamaño actual: 1
+[8.557107]
+Tamaño actual: 2
+[8.957107]
+Tamaño actual: 2
+[8.557107]
+Tamaño actual: 3
+[8.957107]
+Tamaño actual: 3
+[8.557107]
+Tamaño actual: 4
+[8.757107]
+Tamaño actual: 4
+[8.557107]
+Tamaño actual: 5
+[8.957107]
+Tamaño actual: 4
+[9.357107]
+Tamaño actual: 5
+[9.157106]
+Tamaño actual: 6
+[9.157106]
+Tamaño actual: 6
+[9.757107]
+Tamaño actual: 4
+[9.757107]
+Tamaño actual: 5
+[9.757107]
+Tamaño actual: 6
+[9.557106]
+Tamaño actual: 6
+[9.757107]
+Tamaño actual: 5
+[10.157106]
+Tamaño actual: 6
+[9.957106]
+Tamaño actual: 7
+[10.157106]
+Tamaño actual: 6
+[10.557107]
+Tamaño actual: 5
+[10.557107]
+Tamaño actual: 5
+[10.557106]
+Tamaño actual: 6
+[10.357105]
+Tamaño actual: 7
+[10.557106]
+Tamaño actual: 7
+[10.957107]
+Tamaño actual: 7
+[10.957107]
+Tamaño actual: 7
+[10.957106]
+Tamaño actual: 8
+[10.757105]
+Tamaño actual: 9
+[10.757105]
+Tamaño actual: 9
+[11.357106]
+Tamaño actual: 9
+[11.357106]
+Tamaño actual: 7
+[11.357105]
+Tamaño actual: 8
+[11.357105]
+Tamaño actual: 9
+[11.157104]
+Tamaño actual: 9
+[11.357105]
+Tamaño actual: 10
+[11.357105]
+Tamaño actual: 10
+[11.757106]
+Tamaño actual: 9
+[11.757107]
+Tamaño actual: 9
+[11.757105]
+Tamaño actual: 10
+[11.557104]
+Tamaño actual: 11
+[11.557104]
+Tamaño actual: 11
+[12.157105]
+Tamaño actual: 12
+[12.157105]
+Tamaño actual: 11
+[12.357105]
+Tamaño actual: 11
+[12.157105]
+Tamaño actual: 9
+[12.157104]
+Tamaño actual: 10
+[12.157104]
+Tamaño actual: 11
+[11.957104]
+Tamaño actual: 11
+[12.157104]
+Tamaño actual: 12
+[12.357104]
+Tamaño actual: 13
+[11.957104]
+Tamaño actual: 13
+[12.557105]
+Tamaño actual: 11
+[12.557104]
+Tamaño actual: 12
+[12.557104]
+Tamaño actual: 13
+[12.357103]
+Tamaño actual: 13
+[12.757104]
+Tamaño actual: 14
+[12.557104]
+Tamaño actual: 15
+[12.757104]
+Tamaño actual: 15
+[12.957105]
+Tamaño actual: 16
+[12.957105]
+Tamaño actual: 14
+[12.957106]
+Tamaño actual: 6
+[13.357105]
+Paso chido el while
+Resultados:
+[-9999.000000]
+[-9999.000000]
+[1.414214]
+[-9999.000000]
+[-9999.000000]
+[-9999.000000]
+[5.757107]
+[6.557107]
+[7.357108]
+[8.157107]
+[8.557107]
+[2.103506]
+[0.000000]
+[1.832107]
+[-9999.000000]
+[4.157107]
+[4.957107]
+[5.757107]
+[6.557107]
+[7.357108]
+[8.157107]
+[-9999.000000]
+[3.407012]
+[2.568243]
+[2.886485]
+[3.357107]
+[4.157107]
+[4.957107]
+[5.757107]
+[6.557107]
+[7.357108]
+[8.157107]
+[8.557107]
+[-9999.000000]
+[-9999.000000]
+[-9999.000000]
+[-9999.000000]
+[4.157107]
+[4.957107]
+[5.757107]
+[6.757107]
+[7.557107]
+[8.157107]
+[8.557107]
+[12.757104]
+[12.757104]
+[12.557104]
+[-9999.000000]
+[-9999.000000]
+[-9999.000000]
+[5.757107]
+[6.557107]
+[7.357108]
+[8.157107]
+[8.557107]
+[12.357103]
+[11.957104]
+[12.157104]
+[12.357104]
+[11.757107]
+[-9999.000000]
+[-9999.000000]
+[-9999.000000]
+[7.357108]
+[8.157107]
+[8.557107]
+[12.557104]
+[11.957104]
+[11.557104]
+[11.357105]
+[11.357105]
+[10.957107]
+[10.557107]
+[-9999.000000]
+[-9999.000000]
+[-9999.000000]
+[8.557107]
+[12.557104]
+[12.157104]
+[11.557104]
+[11.157104]
+[10.757105]
+[10.557106]
+[10.157106]
+[9.757107]
+[9.757107]
+[8.957107]
+[8.557107]
+[12.957105]
+[12.157104]
+[11.757105]
+[11.357105]
+[10.757105]
+[10.357105]
+[9.957106]
+[9.557106]
+[9.157106]
+[8.957107]
+[8.557107]
+[12.957105]
+[12.557105]
+[12.157105]
+[11.357105]
+[10.957106]
+[10.557106]
+[10.157106]
+[9.757107]
+[9.157106]
+[8.757107]
+[8.557107]
+[13.357105]
+[12.957106]
+[12.157105]
+[11.757106]
+[11.357106]
+[10.957107]
+[10.557107]
+[9.757107]
+[9.357107]
+[8.957107]
+[8.557107]
+Comienza a copiar
+Termina de copiar
+Cuda execution finished

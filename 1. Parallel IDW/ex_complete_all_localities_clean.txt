@@ -1,0 +1,4108 @@
+Friction Map: Clip_Fricc_25.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:999999.000000
+NEW 2nd Max Val: 0.800000
+NEW 2nd Max Val: 2.250000
+The Second Max Val Is: 2.250000
+Avg Frict: 55728.179688
+100.000000
+Min: 0.400000	Max:999999.000000
+32618
+Source = 
+TIFF to matrix = 0.010000 secs.
+creo la matriz de outputTamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 2
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 3
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 3
+Tamaño actual: 5
+Tamaño actual: 5
+[1.800000]
+[1.400000]
+[1.400000]
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+Tamaño actual: 1
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+[1.600000]
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 2
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 3
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 4
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 5
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 2
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 3
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 4
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 5
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Paso chido el while
+Paso chido el while
+Paso chido el while
+Paso chido el while
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 2
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 2
+Tamaño actual: 5
+Tamaño actual: 5
+Resultados:
+Resultados:
+Resultados:
+Resultados:
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 3
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 3
+Tamaño actual: 6
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 4
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 4
+Tamaño actual: 7
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 5
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 5
+Tamaño actual: 8
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[1.304594]
+[1.304594]
+[1.304594]
+[1.304594]
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 1
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+Tamaño actual: 2
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 2
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+Tamaño actual: 3
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 3
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 4
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 2
+Tamaño actual: 4
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 2
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 5
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 3
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 3
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 6
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 4
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 4
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 7
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 5
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 5
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+Tamaño actual: 8
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2.272635]
+[2.272635]
+[2.272635]
+[2.272635]
+[0.000000]
+[0.000000]
+[0.000000]
+[0.000000]
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2.724493]
+[2.724493]
+[2.724493]
+[2.724493]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+[1.304594]
+[1.304594]
+[1.304594]
+[1.304594]
+[1.044975]
+[1.044975]
+[1.044975]
+[1.044975]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Tamaño actual: 1
+Tamaño actual: 1
+Tamaño actual: 1
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[0.800000]
+[0.800000]
+[0.800000]
+[0.800000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[0.400000]
+[0.400000]
+[0.400000]
+[0.400000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+[2147483648.000000]
+Comienza a copiar
+Termina de copiar
+Cuda execution finished

@@ -1,0 +1,2142 @@
+Friction Map: Friccion.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:999999.000000
+NEW 2nd Max Val: 4.500000
+NEW 2nd Max Val: 9.000000
+The Second Max Val Is: 9.000000
+Avg Frict: 36331.519531
+100.000000
+Min: 0.400000	Max:999999.000000
+32618
+Source = 
+TIFF to matrix = 0.030000 secs.
+creo la matriz de outputdentro del metodo
+dentro del metodo
+dentro del metodo
+dentro del metodo
+dentro del metodo
+dentro del metodo
+dentro del metodo
+dentro del metodo
+asignados output y cost
+asignados output y cost
+asignados output y cost
+asignados output y cost
+asignados output y cost
+asignados output y cost
+asignados output y cost
+asignados output y cost
+rows: 458, cols 441
+rows: 458, cols 441
+rows: 458, cols 441
+rows: 458, cols 441
+rows: 458, cols 441
+rows: 458, cols 441
+rows: 458, cols 441
+rows: 458, cols 441
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+declarados filas y columnas
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+todos los arreglos creados
+Tamaño actual: 1
+Tamaño actual: 2
+Tamaño actual: 3
+Tamaño actual: 4
+Tamaño actual: 5
+Tamaño actual: 6
+Tamaño actual: 6
+[2.966726]
+Tamaño actual: 7
+[2.966726]
+Tamaño actual: 8
+[2.966726]
+Tamaño actual: 8
+[3.533452]
+Tamaño actual: 8
+[4.517094]
+Tamaño actual: 9
+[4.517094]
+Tamaño actual: 10
+[5.717094]
+Tamaño actual: 10
+[4.384188]
+Tamaño actual: 10
+[4.166726]
+Tamaño actual: 11
+[4.166726]
+Tamaño actual: 12
+[4.166726]
+Tamaño actual: 12
+[4.166726]
+Tamaño actual: 12
+[4.166726]
+Tamaño actual: 13
+[4.166726]
+Tamaño actual: 13
+[5.895562]
+Tamaño actual: 12
+[7.016726]
+Tamaño actual: 13
+[5.816726]
+Tamaño actual: 14
+[5.366726]
+Tamaño actual: 14
+[5.366726]
+Tamaño actual: 14
+[5.366726]
+Tamaño actual: 14
+[5.816726]
+Tamaño actual: 14
+[5.816726]
+Tamaño actual: 15
+[5.816726]
+Tamaño actual: 16
+[5.816726]
+Tamaño actual: 16
+[5.816726]
+Tamaño actual: 15
+[6.617094]
+Tamaño actual: 15
+[7.817094]
+Tamaño actual: 15
+[9.391125]
+Tamaño actual: 15
+[8.216726]
+Tamaño actual: 16
+[8.216726]
+Tamaño actual: 17
+[7.016726]
+Tamaño actual: 17
+[7.016726]
+Tamaño actual: 17
+[7.016726]
+Tamaño actual: 17
+[9.017094]
+Tamaño actual: 17
+[9.116726]
+Tamaño actual: 17
+[7.916726]
+Tamaño actual: 17
+[7.916726]
+Tamaño actual: 18
+[7.916726]
+Tamaño actual: 19
+[7.916726]
+Tamaño actual: 19
+[7.916726]
+Tamaño actual: 19
+[7.916726]
+Tamaño actual: 19
+[7.916726]
+Tamaño actual: 19
+[9.195562]
+Tamaño actual: 19
+[8.717093]
+Tamaño actual: 19
+[11.516726]
+Tamaño actual: 19
+[10.316726]
+Tamaño actual: 20
+[10.316726]
+Tamaño actual: 21
+[10.316726]
+Tamaño actual: 21
+[9.116726]
+Tamaño actual: 21
+[8.666726]
+Tamaño actual: 21
+[11.117094]
+Tamaño actual: 21
+[9.566726]
+Tamaño actual: 21
+[10.016726]
+Tamaño actual: 22
+[10.016726]
+Tamaño actual: 23
+[10.016726]
+Tamaño actual: 23
+[9.566726]
+Tamaño actual: 23
+[10.016726]
+Tamaño actual: 23
+[10.016726]
+Tamaño actual: 23
+[10.016726]
+Tamaño actual: 23
+[9.566726]
+Tamaño actual: 23
+[12.716726]
+Tamaño actual: 24
+[12.716726]
+Tamaño actual: 23
+[11.516726]
+Tamaño actual: 24
+[10.316726]
+Tamaño actual: 25
+[9.866726]
+Tamaño actual: 25
+[10.817093]
+Tamaño actual: 26
+[10.817093]
+Tamaño actual: 26
+[11.117094]
+Tamaño actual: 27
+[11.117094]
+Tamaño actual: 27
+[13.616726]
+Tamaño actual: 27
+[14.666726]
+Tamaño actual: 27
+[11.295563]
+Tamaño actual: 28
+[11.295563]
+Tamaño actual: 27
+[10.766726]
+Tamaño actual: 27
+[10.766726]
+Tamaño actual: 28
+[10.766726]
+Tamaño actual: 29
+[11.291726]
+Tamaño actual: 29
+[11.291726]
+Tamaño actual: 30
+[11.291726]
+Tamaño actual: 31
+[11.291726]
+Tamaño actual: 31
+[11.516726]
+Tamaño actual: 32
+[11.516726]
+Tamaño actual: 33
+[11.516726]
+Tamaño actual: 33
+[13.316726]
+Tamaño actual: 34
+[13.316726]
+Tamaño actual: 35
+[12.116726]
+Tamaño actual: 33
+[12.191726]
+Tamaño actual: 31
+[14.816726]
+Tamaño actual: 32
+[14.816726]
+Tamaño actual: 33
+[14.816726]
+Tamaño actual: 31
+[13.616726]
+Tamaño actual: 31
+[12.416725]
+Tamaño actual: 31
+[12.491726]
+Tamaño actual: 32
+[12.491726]
+Tamaño actual: 33
+[12.491726]
+Tamaño actual: 33
+[12.491726]
+Tamaño actual: 33
+[12.992093]
+Tamaño actual: 34
+[12.917093]
+Tamaño actual: 32
+[13.217094]
+Tamaño actual: 33
+[14.417094]
+Tamaño actual: 32
+[13.016726]
+Tamaño actual: 32
+[13.466726]
+Tamaño actual: 33
+[13.466726]
+Tamaño actual: 33
+[13.016726]
+Tamaño actual: 33
+[13.016726]
+Tamaño actual: 33
+[14.595563]
+Tamaño actual: 34
+[13.395563]
+Tamaño actual: 32
+[18.266726]
+Tamaño actual: 32
+[13.616726]
+Tamaño actual: 33
+[13.691726]
+Tamaño actual: 34
+[13.616726]
+Tamaño actual: 34
+[14.816726]
+Tamaño actual: 34
+[14.816726]
+Tamaño actual: 34
+[15.416726]
+Tamaño actual: 33
+[14.516726]
+Tamaño actual: 34
+[15.716725]
+Tamaño actual: 35
+[15.716725]
+Tamaño actual: 35
+[15.866726]
+Tamaño actual: 36
+[14.741726]
+Tamaño actual: 37
+[14.216726]
+Tamaño actual: 37
+[14.666726]
+Tamaño actual: 37
+[15.866726]
+Tamaño actual: 37
+[14.666726]
+Tamaño actual: 37
+[16.016726]
+Tamaño actual: 38
+[17.216726]
+Tamaño actual: 37
+[15.092093]
+Tamaño actual: 37
+[14.717093]
+Tamaño actual: 37
+[14.666726]
+Tamaño actual: 37
+[14.666726]
+Tamaño actual: 38
+[14.216726]
+Tamaño actual: 39
+[14.216726]
+Tamaño actual: 39
+[14.216726]
+Tamaño actual: 40
+[14.216726]
+Tamaño actual: 41
+[14.741727]
+Tamaño actual: 41
+[15.392095]
+Tamaño actual: 42
+[16.517094]
+Tamaño actual: 40
+[16.695562]
+Tamaño actual: 38
+[16.916725]
+Tamaño actual: 38
+[16.916725]
+Tamaño actual: 38
+[15.716726]
+Tamaño actual: 39
+[15.266726]
+Tamaño actual: 40
+[15.791726]
+Tamaño actual: 41
+[15.791726]
+Tamaño actual: 41
+[16.916725]
+Tamaño actual: 42
+[16.916725]
+Tamaño actual: 41
+[15.416726]
+Tamaño actual: 42
+[15.866726]
+Tamaño actual: 43
+[15.866726]
+Tamaño actual: 43
+[15.416726]
+Tamaño actual: 44
+[15.416726]
+Tamaño actual: 45
+[15.416726]
+Tamaño actual: 45
+[15.416726]
+Tamaño actual: 45
+[15.416726]
+Tamaño actual: 46
+[15.416726]
+Tamaño actual: 47
+[15.941727]
+Tamaño actual: 45
+[17.816725]
+Tamaño actual: 46
+[16.616726]
+Tamaño actual: 47
+[16.616726]
+Tamaño actual: 48
+[16.616726]
+Tamaño actual: 49
+[16.616726]
+Tamaño actual: 49
+[19.095562]
+Tamaño actual: 49
+[21.416725]
+Tamaño actual: 49
+[17.966726]
+Tamaño actual: 49
+[16.766726]
+Tamaño actual: 50
+[16.316727]
+Tamaño actual: 47
+[16.466726]
+Tamaño actual: 46
+[18.116726]
+Tamaño actual: 47
+[18.116726]
+Tamaño actual: 48
+[19.316727]
+Tamaño actual: 48
+[19.316727]
+Tamaño actual: 44
+[16.466726]
+Tamaño actual: 45
+[16.466726]
+Tamaño actual: 46
+[16.991726]
+Tamaño actual: 47
+[16.916725]
+Tamaño actual: 47
+[17.642094]
+Tamaño actual: 48
+[17.567095]
+Tamaño actual: 49
+[18.767094]
+Tamaño actual: 49
+[19.916725]
+Tamaño actual: 49
+[16.616726]
+Tamaño actual: 50
+[16.616726]
+Tamaño actual: 51
+[16.616726]
+Tamaño actual: 51
+[16.616726]
+Tamaño actual: 52
+[16.616726]
+Tamaño actual: 53
+[16.616726]
+Tamaño actual: 53
+[16.616726]
+Tamaño actual: 53
+[16.616726]
+Tamaño actual: 53
+[16.616726]
+Tamaño actual: 53
+[16.616726]
+Tamaño actual: 54
+[16.616726]
+Tamaño actual: 55
+[16.616726]
+Tamaño actual: 55
+[17.141726]
+Tamaño actual: 53
+[19.016726]
+Tamaño actual: 53
+[17.966726]
+Tamaño actual: 53
+[17.966726]
+Tamaño actual: 53
+[19.166725]
+Tamaño actual: 52
+[17.966726]
+Tamaño actual: 52
+[17.966726]
+Tamaño actual: 50
+[17.516727]
+Tamaño actual: 50
+[19.316727]
+Tamaño actual: 51
+[18.116726]
+Tamaño actual: 52
+[17.666727]
+Tamaño actual: 52
+[18.116726]
+Tamaño actual: 52
+[18.191727]
+Tamaño actual: 51
+[19.916725]
+Tamaño actual: 52
+[19.916725]
+Tamaño actual: 53
+[18.716726]
+Tamaño actual: 53
+[18.266726]
+Tamaño actual: 54
+[18.266726]
+Tamaño actual: 55
+[18.716726]
+Tamaño actual: 55
+[18.716726]
+Tamaño actual: 54
+[17.816727]
+Tamaño actual: 55
+[18.266726]
+Tamaño actual: 56
+[17.816727]
+Tamaño actual: 56
+[17.816727]
+Tamaño actual: 56
+[17.816727]
+Tamaño actual: 56
+[17.816727]
+Tamaño actual: 57
+[17.816727]
+Tamaño actual: 58
+[17.816727]
+Tamaño actual: 58
+[17.816727]
+Tamaño actual: 58
+[18.266726]
+Tamaño actual: 58
+[18.266726]
+Tamaño actual: 58
+[17.816727]
+Tamaño actual: 58
+[17.816727]
+Tamaño actual: 58
+[17.816727]
+Tamaño actual: 59
+[17.816727]
+Tamaño actual: 60
+[17.816727]
+Tamaño actual: 60
+[17.816727]
+Tamaño actual: 60
+[18.341726]
+Tamaño actual: 60
+[21.195562]
+Tamaño actual: 61
+[21.195562]
+Tamaño actual: 58
+[21.416725]
+Tamaño actual: 56
+[19.166725]
+Tamaño actual: 56
+[19.391726]
+Tamaño actual: 55
+[18.716728]
+Tamaño actual: 55
+[20.867094]
+Tamaño actual: 54
+[18.866728]
+Tamaño actual: 55
+[18.866728]
+Tamaño actual: 54
+[19.016727]
+Tamaño actual: 55
+[19.016727]
+Tamaño actual: 56
+[19.466726]
+Tamaño actual: 56
+[19.541727]
+Tamaño actual: 57
+[19.541727]
+Tamaño actual: 57
+[19.016727]
+Tamaño actual: 57
+[19.016727]
+Tamaño actual: 57
+[19.016727]
+Tamaño actual: 58
+[19.016727]
+Tamaño actual: 58
+[19.016727]
+Tamaño actual: 58
+[19.016727]
+Tamaño actual: 58
+[19.016727]
+Tamaño actual: 58
+[19.016727]
+Tamaño actual: 59
+[19.016727]
+Tamaño actual: 60
+[19.016727]
+Tamaño actual: 60
+[18.816727]
+Tamaño actual: 60
+[19.016727]
+Tamaño actual: 61
+[19.016727]
+Tamaño actual: 62
+[19.016727]
+Tamaño actual: 62
+[19.016727]
+Tamaño actual: 62
+[19.016727]
+Tamaño actual: 62
+[18.816727]
+Tamaño actual: 61
+[20.066727]
+Tamaño actual: 61
+[20.066727]
+Tamaño actual: 62
+[21.266726]
+Tamaño actual: 56
+[19.916727]
+Tamaño actual: 57
+[19.916727]
+Tamaño actual: 56
+[19.916725]
+Tamaño actual: 57
+[19.466726]
+Tamaño actual: 58
+[19.466726]
+Tamaño actual: 59
+[19.466726]
+Tamaño actual: 60
+[19.466726]
+Tamaño actual: 60
+[19.466726]
+Tamaño actual: 57
+[20.591726]
+Tamaño actual: 57
+[20.816727]
+Tamaño actual: 53
+[20.341726]
+Tamaño actual: 54
+[19.616726]
+Tamaño actual: 55
+[19.816727]
+Tamaño actual: 55
+[20.341726]
+Tamaño actual: 56
+[19.816727]
+Tamaño actual: 57
+[20.341726]
+Tamaño actual: 58
+[20.341726]
+Tamaño actual: 58
+[20.066729]
+Tamaño actual: 58
+[20.066729]
+Tamaño actual: 57
+[20.216728]
+Tamaño actual: 58
+[20.216728]
+Tamaño actual: 59
+[20.216728]
+Tamaño actual: 59
+[20.741728]
+Tamaño actual: 59
+[20.741728]
+Tamaño actual: 60
+[20.741728]
+Tamaño actual: 61
+[20.741728]
+Tamaño actual: 61
+[20.741728]
+Tamaño actual: 61
+[20.216728]
+Tamaño actual: 61
+[20.216728]
+Tamaño actual: 61
+[20.216728]
+Tamaño actual: 61
+[20.216728]
+Tamaño actual: 61
+[20.741728]
+Tamaño actual: 61
+[20.741728]
+Tamaño actual: 59
+[20.741728]
+Tamaño actual: 60
+[20.741728]
+Tamaño actual: 61
+[20.016727]
+Tamaño actual: 61
+[20.216728]
+Tamaño actual: 61
+[20.216728]
+Tamaño actual: 57
+[21.266726]
+Tamaño actual: 54
+[22.766726]
+Tamaño actual: 54
+[21.641726]
+Tamaño actual: 54
+[21.116726]
+Tamaño actual: 55
+[20.666727]
+Tamaño actual: 56
+[21.191727]
+Tamaño actual: 56
+[21.191727]
+Tamaño actual: 57
+[20.666727]
+Tamaño actual: 58
+[20.666727]
+Tamaño actual: 58
+[21.116726]
+Tamaño actual: 54
+[21.141726]
+Tamaño actual: 55
+[20.616726]
+Tamaño actual: 56
+[20.616726]
+Tamaño actual: 56
+[21.541727]
+Tamaño actual: 56
+[21.541727]
+Tamaño actual: 57
+[20.816727]
+Tamaño actual: 58
+[21.541727]
+Tamaño actual: 57
+[24.416725]
+Tamaño actual: 56
+[22.016726]
+Tamaño actual: 56
+[21.641727]
+Tamaño actual: 57
+[21.641727]
+Tamaño actual: 58
+[21.641727]
+Tamaño actual: 58
+[21.116728]
+Tamaño actual: 58
+[21.541727]
+Tamaño actual: 59
+[21.541727]
+Tamaño actual: 60
+[21.541727]
+Tamaño actual: 60
+[22.166727]
+Tamaño actual: 60
+[22.166727]
+Tamaño actual: 61
+[23.366726]
+Tamaño actual: 61
+[21.716728]
+Tamaño actual: 61
+[21.266729]
+Tamaño actual: 61
+[21.416729]
+Tamaño actual: 62
+[21.941729]
+Tamaño actual: 63
+[21.941729]
+Tamaño actual: 63
+[21.941729]
+Tamaño actual: 63
+[21.941729]
+Tamaño actual: 63
+[21.941729]
+Tamaño actual: 64
+[21.941729]
+Tamaño actual: 65
+[21.941729]
+Tamaño actual: 65
+[21.941729]
+Tamaño actual: 65
+[21.941729]
+Tamaño actual: 65
+[21.941729]
+Tamaño actual: 63
+[22.516726]
+Tamaño actual: 63
+[22.516726]
+Tamaño actual: 63
+[22.591726]
+Tamaño actual: 61
+[22.341726]
+Tamaño actual: 62
+[22.341726]
+Tamaño actual: 63
+[22.341726]
+Tamaño actual: 63
+[22.341726]
+Tamaño actual: 63
+[22.391727]
+Tamaño actual: 64
+[22.391727]
+Tamaño actual: 65
+[22.391727]
+Tamaño actual: 65
+[22.391727]
+Tamaño actual: 66
+[22.316727]
+Tamaño actual: 67
+[22.316727]
+Tamaño actual: 66
+[22.466728]
+Tamaño actual: 66
+[22.466728]
+Tamaño actual: 67
+[22.466728]
+Tamaño actual: 67
+[22.991728]
+Tamaño actual: 63
+[22.991728]
+Tamaño actual: 64
+[22.916727]
+Tamaño actual: 62
+[22.341726]
+Tamaño actual: 63
+[22.341726]
+Tamaño actual: 64
+[22.341726]
+Tamaño actual: 63
+[22.766726]
+Tamaño actual: 62
+[22.841728]
+Tamaño actual: 63
+[22.841728]
+Tamaño actual: 64
+[22.316729]
+Tamaño actual: 65
+[22.316729]
+Tamaño actual: 65
+[23.316725]
+Tamaño actual: 65
+[23.366726]
+Tamaño actual: 65
+[23.441727]
+Tamaño actual: 61
+[22.466730]
+Tamaño actual: 62
+[22.466730]
+Tamaño actual: 60
+[22.616730]
+Tamaño actual: 61
+[23.141729]
+Tamaño actual: 62
+[23.141729]
+Tamaño actual: 62
+[23.791727]
+Tamaño actual: 62
+[24.916727]
+Tamaño actual: 61
+[23.716726]
+Tamaño actual: 62
+[24.916727]
+Tamaño actual: 63
+[24.916727]
+Tamaño actual: 60
+[23.366728]
+Tamaño actual: 61
+[23.366728]
+Tamaño actual: 58
+[23.666729]
+Tamaño actual: 58
+[23.666729]
+Tamaño actual: 58
+[23.666729]
+Tamaño actual: 58
+[23.666729]
+Tamaño actual: 58
+[23.666729]
+Tamaño actual: 59
+[23.666729]
+Tamaño actual: 60
+[23.666729]
+Tamaño actual: 60
+[23.666729]
+Tamaño actual: 60
+[23.666729]
+Tamaño actual: 60
+[23.666729]
+Tamaño actual: 60
+[24.116728]
+Tamaño actual: 59
+[23.666725]
+Tamaño actual: 57
+[23.966726]
+Tamaño actual: 58
+[23.966726]
+Tamaño actual: 57
+[24.041729]
+Tamaño actual: 58
+[24.041729]
+Tamaño actual: 59
+[24.041729]
+Tamaño actual: 60
+[24.041729]
+Tamaño actual: 61
+[23.516729]
+Tamaño actual: 60
+[24.516726]
+Tamaño actual: 61
+[24.516726]
+Tamaño actual: 62
+[24.516726]
+Tamaño actual: 62
+[24.516726]
+Tamaño actual: 62
+[24.591726]
+Tamaño actual: 62
+[24.591726]
+Tamaño actual: 62
+[25.716726]
+Tamaño actual: 63
+[25.716726]
+Tamaño actual: 64
+[24.516726]
+Tamaño actual: 64
+[25.716726]
+Tamaño actual: 63
+[24.641727]
+Tamaño actual: 64
+[24.641727]
+Tamaño actual: 65
+[24.116728]
+Tamaño actual: 65
+[24.116728]
+Tamaño actual: 65
+[24.116728]
+Tamaño actual: 65
+[24.116728]
+Tamaño actual: 65
+[23.466728]
+Tamaño actual: 65
+[23.666729]
+Tamaño actual: 64
+[23.666731]
+Tamaño actual: 65
+[23.666731]
+Tamaño actual: 65
+[23.666731]
+Tamaño actual: 62
+[23.816730]
+Tamaño actual: 63
+[23.816730]
+Tamaño actual: 64
+[24.341730]
+Tamaño actual: 63
+[24.491726]
+Tamaño actual: 64
+[24.491726]
+Tamaño actual: 64
+[24.566729]
+Tamaño actual: 65
+[24.566729]
+Tamaño actual: 64
+[26.216726]
+Tamaño actual: 63
+[26.366728]
+Tamaño actual: 63
+[24.866730]
+Tamaño actual: 63
+[24.866730]
+Tamaño actual: 63
+[25.416725]
+Tamaño actual: 62
+[25.016726]
+Tamaño actual: 60
+[25.166727]
+Tamaño actual: 60
+[24.466728]
+Tamaño actual: 61
+[24.466728]
+Tamaño actual: 62
+[24.466728]
+Tamaño actual: 60
+[24.866730]
+Tamaño actual: 60
+[24.866730]
+Tamaño actual: 58
+[24.866730]
+Tamaño actual: 59
+[24.866730]
+Tamaño actual: 59
+[24.866730]
+Tamaño actual: 59
+[24.866730]
+Tamaño actual: 59
+[24.866730]
+Tamaño actual: 59
+[24.866730]
+Tamaño actual: 59
+[25.316729]
+Tamaño actual: 58
+[24.866732]
+Tamaño actual: 58
+[24.866732]
+Tamaño actual: 58
+[24.866732]
+Tamaño actual: 58
+[27.016726]
+Tamaño actual: 59
+[25.816727]
+Tamaño actual: 60
+[25.816727]
+Tamaño actual: 60
+[26.041727]
+Tamaño actual: 60
+[25.016731]
+Tamaño actual: 61
+[25.016731]
+Tamaño actual: 62
+[25.016731]
+Tamaño actual: 62
+[25.016731]
+Tamaño actual: 62
+[25.166727]
+Tamaño actual: 61
+[25.766729]
+Tamaño actual: 62
+[25.766729]
+Tamaño actual: 63
+[26.291729]
+Tamaño actual: 63
+[26.291729]
+Tamaño actual: 63
+[25.766729]
+Tamaño actual: 64
+[25.766729]
+Tamaño actual: 62
+[25.316729]
+Tamaño actual: 63
+[25.316729]
+Tamaño actual: 64
+[25.316729]
+Tamaño actual: 64
+[25.316729]
+Tamaño actual: 64
+[25.316729]
+Tamaño actual: 64
+[25.316729]
+Tamaño actual: 64
+[25.866730]
+Tamaño actual: 63
+[26.116728]
+Tamaño actual: 64
+[26.116728]
+Tamaño actual: 65
+[25.666729]
+Tamaño actual: 65
+[25.666729]
+Tamaño actual: 65
+[25.666729]
+Tamaño actual: 63
+[26.166725]
+Tamaño actual: 64
+[26.616726]
+Tamaño actual: 65
+[26.166725]
+Tamaño actual: 65
+[26.616726]
+Tamaño actual: 65
+[26.616726]
+Tamaño actual: 65
+[26.166725]
+Tamaño actual: 65
+[26.616726]
+Tamaño actual: 66
+[26.616726]
+Tamaño actual: 66
+[25.766729]
+Tamaño actual: 65
+[26.316727]
+Tamaño actual: 65
+[26.841726]
+Tamaño actual: 63
+[26.066730]
+Tamaño actual: 63
+[26.516729]
+Tamaño actual: 61
+[26.066730]
+Tamaño actual: 61
+[26.066730]
+Tamaño actual: 61
+[26.066730]
+Tamaño actual: 61
+[26.066730]
+Tamaño actual: 61
+[26.066730]
+Tamaño actual: 61
+[26.066730]
+Tamaño actual: 61
+[26.066732]
+Tamaño actual: 61
+[26.066732]
+Tamaño actual: 61
+[26.066732]
+Tamaño actual: 61
+[29.416727]
+Tamaño actual: 59
+[26.216726]
+Tamaño actual: 59
+[26.741732]
+Tamaño actual: 60
+[26.741732]
+Tamaño actual: 61
+[26.216732]
+Tamaño actual: 61
+[26.216732]
+Tamaño actual: 61
+[26.216732]
+Tamaño actual: 61
+[26.216732]
+Tamaño actual: 61
+[26.366728]
+Tamaño actual: 61
+[26.366728]
+Tamaño actual: 60
+[26.966728]
+Tamaño actual: 61
+[26.966728]
+Tamaño actual: 61
+[26.516729]
+Tamaño actual: 61
+[26.516729]
+Tamaño actual: 61
+[26.516729]
+Tamaño actual: 61
+[26.516729]
+Tamaño actual: 61
+[26.516729]
+Tamaño actual: 60
+[27.316729]
+Tamaño actual: 61
+[27.316729]
+Tamaño actual: 62
+[27.316729]
+Tamaño actual: 62
+[26.866730]
+Tamaño actual: 62
+[26.866730]
+Tamaño actual: 62
+[29.016726]
+Tamaño actual: 63
+[30.216726]
+Tamaño actual: 61
+[28.616730]
+Tamaño actual: 62
+[26.966730]
+Tamaño actual: 63
+[26.766729]
+Tamaño actual: 63
+[26.766729]
+Tamaño actual: 63
+[27.491730]
+Tamaño actual: 64
+[26.966730]
+Tamaño actual: 65
+[26.966730]
+Tamaño actual: 63
+[27.916727]
+Tamaño actual: 64
+[27.916727]
+Tamaño actual: 65
+[27.466726]
+Tamaño actual: 65
+[29.116726]
+Tamaño actual: 66
+[27.916727]
+Tamaño actual: 66
+[26.866730]
+Tamaño actual: 66
+[27.766727]
+Tamaño actual: 67
+[27.766727]
+Tamaño actual: 68
+[28.216726]
+Tamaño actual: 68
+[27.716730]
+Tamaño actual: 68
+[27.716730]
+Tamaño actual: 68
+[27.716730]
+Tamaño actual: 68
+[27.791731]
+Tamaño actual: 68
+[27.266731]
+Tamaño actual: 68
+[27.266731]
+Tamaño actual: 68
+[27.716730]
+Tamaño actual: 68
+[27.266733]
+Tamaño actual: 68
+[27.266733]
+Tamaño actual: 68
+[27.266733]
+Tamaño actual: 68
+[28.216728]
+Tamaño actual: 66
+[27.816725]
+Tamaño actual: 67
+[27.366726]
+Tamaño actual: 67
+[27.366726]
+Tamaño actual: 68
+[27.366726]
+Tamaño actual: 69
+[27.366726]
+Tamaño actual: 68
+[27.416727]
+Tamaño actual: 68
+[27.941732]
+Tamaño actual: 69
+[27.941732]
+Tamaño actual: 70
+[27.941732]
+Tamaño actual: 70
+[27.416733]
+Tamaño actual: 70
+[27.416733]
+Tamaño actual: 70
+[27.416733]
+Tamaño actual: 68
+[28.041727]
+Tamaño actual: 67
+[27.566729]
+Tamaño actual: 67
+[27.566729]
+Tamaño actual: 66
+[28.241730]
+Tamaño actual: 67
+[28.241730]
+Tamaño actual: 68
+[28.241730]
+Tamaño actual: 68
+[27.716730]
+Tamaño actual: 68
+[27.716730]
+Tamaño actual: 68
+[27.716730]
+Tamaño actual: 68
+[27.716730]
+Tamaño actual: 65
+[29.916725]
+Tamaño actual: 66
+[28.716726]
+Tamaño actual: 67
+[28.266726]
+Tamaño actual: 66
+[28.466732]
+Tamaño actual: 67
+[28.466732]
+Tamaño actual: 66
+[29.416729]
+Tamaño actual: 67
+[28.216730]
+Tamaño actual: 68
+[27.766729]
+Tamaño actual: 68
+[28.291729]
+Tamaño actual: 68
+[29.091726]
+Tamaño actual: 68
+[28.516729]
+Tamaño actual: 69
+[28.066730]
+Tamaño actual: 70
+[28.066730]
+Tamaño actual: 70
+[28.516729]
+Tamaño actual: 70
+[28.516729]
+Tamaño actual: 68
+[29.816730]
+Tamaño actual: 68
+[28.691730]
+Tamaño actual: 69
+[28.691730]
+Tamaño actual: 69
+[28.691730]
+Tamaño actual: 69
+[30.316725]
+Tamaño actual: 69
+[28.991732]
+Tamaño actual: 70
+[28.466732]
+Tamaño actual: 71
+[28.466732]
+Tamaño actual: 71
+[28.466732]
+Tamaño actual: 71
+[28.466734]
+Tamaño actual: 71
+[28.466734]
+Tamaño actual: 71
+[28.991734]
+Tamaño actual: 71
+[29.416729]
+Tamaño actual: 72
+[28.966728]
+Tamaño actual: 73
+[29.416729]
+Tamaño actual: 71
+[28.566727]
+Tamaño actual: 72
+[28.566727]
+Tamaño actual: 73
+[28.566727]
+Tamaño actual: 73
+[28.566727]
+Tamaño actual: 73
+[28.566727]
+Tamaño actual: 73
+[28.566727]
+Tamaño actual: 73
+[28.616728]
+Tamaño actual: 73
+[29.141733]
+Tamaño actual: 74
+[29.141733]
+Tamaño actual: 75
+[28.616734]
+Tamaño actual: 75
+[28.616734]
+Tamaño actual: 75
+[28.616734]
+Tamaño actual: 75
+[29.116726]
+Tamaño actual: 76
+[29.116726]
+Tamaño actual: 77
+[28.666727]
+Tamaño actual: 76
+[28.766729]
+Tamaño actual: 76
+[28.766729]
+Tamaño actual: 75
+[29.816730]
+Tamaño actual: 73
+[28.916731]
+Tamaño actual: 74
+[28.916731]
+Tamaño actual: 75
+[28.916731]
+Tamaño actual: 75
+[28.916731]
+Tamaño actual: 75
+[28.916731]
+Tamaño actual: 75
+[28.916731]
+Tamaño actual: 75
+[28.966728]
+Tamaño actual: 76
+[28.966728]
+Tamaño actual: 77
+[28.966728]
+Tamaño actual: 77
+[29.416727]
+Tamaño actual: 77
+[30.616730]
+Tamaño actual: 78
+[29.416729]
+Tamaño actual: 79
+[28.966730]
+Tamaño actual: 77
+[30.016727]
+Tamaño actual: 78
+[30.016727]
+Tamaño actual: 76
+[30.191732]
+Tamaño actual: 77
+[29.666733]
+Tamaño actual: 78
+[29.666733]
+Tamaño actual: 76
+[30.291727]
+Tamaño actual: 76
+[29.066730]
+Tamaño actual: 77
+[29.266731]
+Tamaño actual: 78
+[29.266731]
+Tamaño actual: 78
+[29.266731]
+Tamaño actual: 76
+[31.516729]
+Tamaño actual: 76
+[29.966730]
+Tamaño actual: 74
+[29.266726]
+Tamaño actual: 75
+[29.466726]
+Tamaño actual: 75
+[30.016729]
+Tamaño actual: 75
+[30.191732]
+Tamaño actual: 76
+[30.191732]
+Tamaño actual: 75
+[30.191732]
+Tamaño actual: 76
+[29.666733]
+Tamaño actual: 77
+[30.116732]
+Tamaño actual: 77
+[29.666733]
+Tamaño actual: 77
+[29.666733]
+Tamaño actual: 77
+[29.666735]
+Tamaño actual: 77
+[30.191734]
+Tamaño actual: 77
+[30.166729]
+Tamaño actual: 77
+[30.616730]
+Tamaño actual: 77
+[30.616730]
+Tamaño actual: 77
+[29.766727]
+Tamaño actual: 77
+[29.766727]
+Tamaño actual: 77
+[29.766727]
+Tamaño actual: 77
+[29.766727]
+Tamaño actual: 77
+[29.766727]
+Tamaño actual: 77
+[30.291727]
+Tamaño actual: 77
+[29.816729]
+Tamaño actual: 77
+[33.116730]
+Tamaño actual: 77
+[30.341734]
+Tamaño actual: 78
+[30.341734]
+Tamaño actual: 79
+[30.266733]
+Tamaño actual: 79
+[30.266733]
+Tamaño actual: 79
+[29.816734]
+Tamaño actual: 80
+[30.266733]
+Tamaño actual: 80
+[30.316727]
+Tamaño actual: 81
+[29.866728]
+Tamaño actual: 81
+[30.416731]
+Tamaño actual: 81
+[30.866730]
+Tamaño actual: 81
+[30.416731]
+Tamaño actual: 80
+[29.966730]
+Tamaño actual: 80
+[29.966730]
+Tamaño actual: 80
+[30.116732]
+Tamaño actual: 81
+[30.116732]
+Tamaño actual: 82
+[30.116732]
+Tamaño actual: 82
+[30.116732]
+Tamaño actual: 82
+[30.566730]
+Tamaño actual: 82
+[30.566730]
+Tamaño actual: 82
+[30.566730]
+Tamaño actual: 82
+[30.116732]
+Tamaño actual: 82
+[30.616728]
+Tamaño actual: 82
+[30.166729]
+Tamaño actual: 83
+[30.166729]
+Tamaño actual: 84
+[30.166729]
+Tamaño actual: 85
+[30.166729]
+Tamaño actual: 85
+[30.616728]
+Tamaño actual: 84
+[30.616730]
+Tamaño actual: 85
+[30.616730]
+Tamaño actual: 86
+[30.616730]
+Tamaño actual: 85
+[30.716734]
+Tamaño actual: 84
+[30.066730]
+Tamaño actual: 85
+[30.066730]
+Tamaño actual: 86
+[30.066730]
+Tamaño actual: 87
+[30.066730]
+Tamaño actual: 85
+[31.216726]
+Tamaño actual: 86
+[31.216726]
+Tamaño actual: 85
+[31.316732]
+Tamaño actual: 86
+[30.866734]
+Tamaño actual: 85
+[30.266726]
+Tamaño actual: 86
+[30.266726]
+Tamaño actual: 86
+[30.466732]
+Tamaño actual: 86
+[30.466732]
+Tamaño actual: 86
+[30.466732]
+Tamaño actual: 84
+[33.916729]
+Tamaño actual: 82
+[32.716728]
+Tamaño actual: 81
+[31.391733]
+Tamaño actual: 82
+[31.391733]
+Tamaño actual: 81
+[31.391733]
+Tamaño actual: 82
+[31.391733]
+Tamaño actual: 83
+[31.316732]
+Tamaño actual: 83
+[31.316732]
+Tamaño actual: 84
+[30.866734]
+Tamaño actual: 84
+[31.316732]
+Tamaño actual: 84
+[30.866735]
+Tamaño actual: 84
+[30.966728]
+Tamaño actual: 84
+[30.966728]
+Tamaño actual: 84
+[30.966728]
+Tamaño actual: 84
+[31.491728]
+Tamaño actual: 84
+[31.491728]
+Tamaño actual: 84
+[31.016729]
+Tamaño actual: 84
+[34.316730]
+Tamaño actual: 83
+[31.466734]
+Tamaño actual: 84
+[31.466734]
+Tamaño actual: 85
+[32.666733]
+Tamaño actual: 86
+[31.016735]
+Tamaño actual: 86
+[31.516727]
+Tamaño actual: 84
+[31.166731]
+Tamaño actual: 84
+[31.166731]
+Tamaño actual: 84
+[32.116726]
+Tamaño actual: 85
+[32.116726]
+Tamaño actual: 84
+[31.666729]
+Tamaño actual: 83
+[31.716730]
+Tamaño actual: 84
+[31.716730]
+Tamaño actual: 84
+[31.716730]
+Tamaño actual: 84
+[31.716730]
+Tamaño actual: 83
+[31.766731]
+Tamaño actual: 84
+[31.316732]
+Tamaño actual: 85
+[31.316732]
+Tamaño actual: 85
+[31.316732]
+Tamaño actual: 85
+[31.316732]
+Tamaño actual: 85
+[31.766731]
+Tamaño actual: 85
+[31.316732]
+Tamaño actual: 84
+[31.366730]
+Tamaño actual: 85
+[31.366730]
+Tamaño actual: 85
+[31.816729]
+Tamaño actual: 86
+[31.816729]
+Tamaño actual: 87
+[31.366730]
+Tamaño actual: 87
+[31.366730]
+Tamaño actual: 87
+[31.816729]
+Tamaño actual: 87
+[31.916733]
+Tamaño actual: 87
+[31.916733]
+Tamaño actual: 88
+[31.916733]
+Tamaño actual: 86
+[31.916735]
+Tamaño actual: 85
+[31.466726]
+Tamaño actual: 86
+[31.466726]
+Tamaño actual: 85
+[32.441734]
+Tamaño actual: 86
+[32.441734]
+Tamaño actual: 83
+[32.541725]
+Tamaño actual: 82
+[32.416725]
+Tamaño actual: 82
+[32.516735]
+Tamaño actual: 83
+[32.591736]
+Tamaño actual: 80
+[31.666733]
+Tamaño actual: 80
+[31.666733]
+Tamaño actual: 80
+[31.666733]
+Tamaño actual: 80
+[32.666729]
+Tamaño actual: 80
+[32.666729]
+Tamaño actual: 80
+[32.666729]
+Tamaño actual: 78
+[35.116730]
+Tamaño actual: 76
+[33.916729]
+Tamaño actual: 77
+[32.716728]
+Tamaño actual: 78
+[32.266731]
+Tamaño actual: 78
+[32.716728]
+Tamaño actual: 78
+[32.716728]
+Tamaño actual: 78
+[31.916735]
+Tamaño actual: 77
+[32.591732]
+Tamaño actual: 78
+[32.591732]
+Tamaño actual: 78
+[32.591732]
+Tamaño actual: 79
+[32.066734]
+Tamaño actual: 80
+[32.066734]
+Tamaño actual: 80
+[32.066734]
+Tamaño actual: 80
+[32.616730]
+Tamaño actual: 81
+[32.166729]
+Tamaño actual: 81
+[32.691727]
+Tamaño actual: 81
+[32.691727]
+Tamaño actual: 81
+[32.216728]
+Tamaño actual: 80
+[32.366730]
+Tamaño actual: 80
+[32.366730]
+Tamaño actual: 80
+[33.316727]
+Tamaño actual: 81
+[33.316727]
+Tamaño actual: 80
+[33.491734]
+Tamaño actual: 80
+[33.491734]
+Tamaño actual: 81
+[33.491734]
+Tamaño actual: 79
+[32.966732]
+Tamaño actual: 80
+[32.966732]
+Tamaño actual: 81
+[32.516731]
+Tamaño actual: 81
+[32.516731]
+Tamaño actual: 81
+[32.966732]
+Tamaño actual: 81
+[32.966732]
+Tamaño actual: 81
+[32.516731]
+Tamaño actual: 81
+[33.091728]
+Tamaño actual: 81
+[33.091728]
+Tamaño actual: 81
+[33.016731]
+Tamaño actual: 82
+[32.566730]
+Tamaño actual: 83
+[32.566730]
+Tamaño actual: 83
+[32.566730]
+Tamaño actual: 83
+[33.116734]
+Tamaño actual: 84
+[33.116734]
+Tamaño actual: 81
+[34.316727]
+Tamaño actual: 82
+[33.116726]
+Tamaño actual: 83
+[33.116726]
+Tamaño actual: 84
+[32.666725]
+Tamaño actual: 83
+[33.641735]
+Tamaño actual: 84
+[33.641735]
+Tamaño actual: 85
+[34.766735]
+Tamaño actual: 85
+[34.766735]
+Tamaño actual: 85
+[33.216728]
+Tamaño actual: 85
+[33.666729]
+Tamaño actual: 84
+[36.016731]
+Tamaño actual: 83
+[33.316734]
+Tamaño actual: 84
+[34.516731]
+Tamaño actual: 85
+[34.516731]
+Tamaño actual: 85
+[33.316734]
+Tamaño actual: 85
+[33.316734]
+Tamaño actual: 86
+[33.391731]
+Tamaño actual: 86
+[35.016731]
+Tamaño actual: 87
+[33.816730]
+Tamaño actual: 87
+[33.816730]
+Tamaño actual: 84
+[33.866730]
+Tamaño actual: 84
+[33.991730]
+Tamaño actual: 85
+[33.916729]
+Tamaño actual: 83
+[33.116734]
+Tamaño actual: 83
+[33.116734]
+Tamaño actual: 84
+[33.116734]
+Tamaño actual: 83
+[33.116734]
+Tamaño actual: 83
+[33.116734]
+Tamaño actual: 83
+[33.791733]
+Tamaño actual: 84
+[33.791733]
+Tamaño actual: 85
+[33.266735]
+Tamaño actual: 85
+[33.266735]
+Tamaño actual: 85
+[33.266735]
+Tamaño actual: 83
+[33.891727]
+Tamaño actual: 84
+[33.891727]
+Tamaño actual: 84
+[33.866730]
+Tamaño actual: 85
+[33.416729]
+Tamaño actual: 86
+[33.416729]
+Tamaño actual: 86
+[33.916733]
+Tamaño actual: 87
+[33.916733]
+Tamaño actual: 88
+[33.916733]
+Tamaño actual: 88
+[34.016731]
+Tamaño actual: 88
+[33.566730]
+Tamaño actual: 88
+[35.716724]
+Tamaño actual: 88
+[34.691734]
+Tamaño actual: 89
+[34.616734]
+Tamaño actual: 88
+[34.166733]
+Tamaño actual: 89
+[33.716732]
+Tamaño actual: 90
+[33.716732]
+Tamaño actual: 90
+[34.166733]
+Tamaño actual: 90
+[34.166733]
+Tamaño actual: 90
+[34.691734]
+Tamaño actual: 91
+[34.691734]
+Tamaño actual: 91
+[34.716724]
+Tamaño actual: 91
+[33.766731]
+Tamaño actual: 92
+[33.766731]
+Tamaño actual: 93
+[33.766731]
+Tamaño actual: 93
+[33.766731]
+Tamaño actual: 93
+[33.766731]
+Tamaño actual: 93
+[34.316730]
+Tamaño actual: 92
+[34.316730]
+Tamaño actual: 90
+[34.316727]
+Tamaño actual: 90
+[34.766727]
+Tamaño actual: 87
+[34.866726]
+Tamaño actual: 87
+[34.866726]
+Tamaño actual: 87
+[36.016727]
+Tamaño actual: 87
+[34.816727]
+Tamaño actual: 87
+[34.816727]
+Tamaño actual: 87
+[34.816727]
+Tamaño actual: 85
+[35.066730]
+Tamaño actual: 85
+[35.066730]
+Tamaño actual: 85
+[34.666733]
+Tamaño actual: 85
+[34.816727]
+Tamaño actual: 85
+[34.816727]
+Tamaño actual: 85
+[35.216724]
+Tamaño actual: 86
+[36.416725]
+Tamaño actual: 87
+[35.216724]
+Tamaño actual: 85
+[34.316734]
+Tamaño actual: 86
+[34.316734]
+Tamaño actual: 87
+[34.316734]
+Tamaño actual: 86
+[34.316734]
+Tamaño actual: 86
+[34.316734]
+Tamaño actual: 87
+[34.316734]
+Tamaño actual: 86
+[34.316734]
+Tamaño actual: 86
+[34.316734]
+Tamaño actual: 86
+[34.866730]
+Tamaño actual: 86
+[34.991734]
+Tamaño actual: 87
+[34.991734]
+Tamaño actual: 88
+[34.466736]
+Tamaño actual: 88
+[34.991734]
+Tamaño actual: 88
+[34.466736]
+Tamaño actual: 86
+[35.491734]
+Tamaño actual: 87
+[35.491734]
+Tamaño actual: 88
+[35.491734]
+Tamaño actual: 88
+[36.616734]
+Tamaño actual: 89
+[35.416733]
+Tamaño actual: 90
+[35.416733]
+Tamaño actual: 90
+[34.966736]
+Tamaño actual: 89
+[34.616730]
+Tamaño actual: 90
+[34.616730]
+Tamaño actual: 91
+[34.616730]
+Tamaño actual: 91
+[35.066730]
+Tamaño actual: 88
+[34.766731]
+Tamaño actual: 88
+[35.816734]
+Tamaño actual: 89
+[35.816734]
+Tamaño actual: 90
+[35.891735]
+Tamaño actual: 90
+[37.016735]
+Tamaño actual: 90
+[35.766727]
+Tamaño actual: 90
+[35.366734]
+Tamaño actual: 91
+[35.366734]
+Tamaño actual: 92
+[35.366734]
+Tamaño actual: 92
+[34.916733]
+Tamaño actual: 92
+[35.416733]
+Tamaño actual: 93
+[35.416733]
+Tamaño actual: 94
+[34.966732]
+Tamaño actual: 94
+[34.966732]
+Tamaño actual: 94
+[34.966732]
+Tamaño actual: 94
+[35.416733]
+Tamaño actual: 93
+[35.516731]
+Tamaño actual: 92
+[37.116730]
+Tamaño actual: 93
+[35.991730]
+Tamaño actual: 92
+[35.516731]
+Tamaño actual: 91
+[37.266727]
+Tamaño actual: 91
+[36.066727]
+Tamaño actual: 91
+[37.216728]
+Tamaño actual: 91
+[37.216728]
+Tamaño actual: 91
+[36.091728]
+Tamaño actual: 91
+[36.016731]
+Tamaño actual: 92
+[36.016731]
+Tamaño actual: 93
+[36.016731]
+Tamaño actual: 93
+[36.016731]
+Tamaño actual: 93
+[35.566734]
+Tamaño actual: 93
+[35.716728]
+Tamaño actual: 93
+[36.116730]
+Tamaño actual: 93
+[35.816734]
+Tamaño actual: 93
+[36.266731]
+Tamaño actual: 93
+[35.816734]
+Tamaño actual: 92
+[36.416725]
+Tamaño actual: 91
+[35.516731]
+Tamaño actual: 92
+[35.516731]
+Tamaño actual: 93
+[35.516731]
+Tamaño actual: 92
+[35.516735]
+Tamaño actual: 93
+[35.516735]
+Tamaño actual: 94
+[35.516735]
+Tamaño actual: 92
+[35.516735]
+Tamaño actual: 92
+[35.516735]
+Tamaño actual: 93
+[35.516735]
+Tamaño actual: 92
+[35.516735]
+Tamaño actual: 92
+[35.516735]
+Tamaño actual: 92
+[36.191734]
+Tamaño actual: 93
+[36.191734]
+Tamaño actual: 94
+[36.191734]
+Tamaño actual: 94
+[35.666737]
+Tamaño actual: 92
+[35.816730]
+Tamaño actual: 93
+[35.816730]
+Tamaño actual: 94
+[35.816730]
+Tamaño actual: 94
+[35.816730]
+Tamaño actual: 94
+[35.816730]
+Tamaño actual: 94
+[36.716732]
+Tamaño actual: 94
+[36.391731]
+Tamaño actual: 94
+[36.416733]
+Tamaño actual: 92
+[36.366726]
+Tamaño actual: 91
+[35.966732]
+Tamaño actual: 91
+[39.266735]
+Tamaño actual: 90
+[36.916725]
+Tamaño actual: 91
+[36.916725]
+Tamaño actual: 89
+[36.016727]
+Tamaño actual: 90
+[36.016727]
+Tamaño actual: 90
+[36.016727]
+Tamaño actual: 90
+[36.966724]
+Tamaño actual: 90
+[36.966724]
+Tamaño actual: 90
+[36.516731]
+Tamaño actual: 90
+[36.566734]
+Tamaño actual: 91
+[36.116734]
+Tamaño actual: 92
+[36.116734]
+Tamaño actual: 92
+[36.691730]
+Tamaño actual: 93
+[36.691730]
+Tamaño actual: 94
+[36.691730]
+Tamaño actual: 94
+[36.616734]
+Tamaño actual: 94
+[36.616734]
+Tamaño actual: 94
+[36.166737]
+Tamaño actual: 95
+[36.166737]
+Tamaño actual: 96
+[35.966736]
+Tamaño actual: 96
+[37.241734]
+Tamaño actual: 95
+[37.166733]
+Tamaño actual: 94
+[37.166729]
+Tamaño actual: 93
+[36.716732]
+Tamaño actual: 93
+[37.966728]
+Tamaño actual: 92
+[37.316723]
+Tamaño actual: 92
+[37.466732]
+Tamaño actual: 93
+[37.466732]
+Tamaño actual: 94
+[37.466732]
+Tamaño actual: 92
+[37.591732]
+Tamaño actual: 93
+[37.066734]
+Tamaño actual: 92
+[37.591732]
+Tamaño actual: 93
+[37.591732]
+Tamaño actual: 91
+[37.741734]
+Tamaño actual: 92
+[37.666733]
+Tamaño actual: 93
+[38.866734]
+Tamaño actual: 93
+[37.741734]
+Tamaño actual: 92
+[37.241730]
+Tamaño actual: 91
+[36.716732]
+Tamaño actual: 92
+[36.716732]
+Tamaño actual: 93
+[36.716732]
+Tamaño actual: 93
+[36.716732]
+Tamaño actual: 93
+[37.166733]
+Tamaño actual: 93
+[36.716736]
+Tamaño actual: 94
+[36.716736]
+Tamaño actual: 95
+[36.716736]
+Tamaño actual: 93
+[36.716736]
+Tamaño actual: 93
+[36.716736]
+Tamaño actual: 94
+[36.716736]
+Tamaño actual: 93
+[36.716736]
+Tamaño actual: 93
+[36.716736]
+Tamaño actual: 93
+[37.216736]
+Tamaño actual: 94
+[36.766735]
+Tamaño actual: 95
+[37.216736]
+Comienza a copiar
+Termina de copiar
+Cuda execution finished

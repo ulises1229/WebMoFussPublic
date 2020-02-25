@@ -1,0 +1,79 @@
+Friction Map: fricc_w.tif
+Is Relative?: 0
+100
+Min: 0.400000	Max:999999.000000
+NEW 2nd Max Val: 2.100000
+NEW 2nd Max Val: 4.500000
+NEW 2nd Max Val: 9.000000
+The Second Max Val Is: 9.000000
+Avg Frict: 9164.833008
+100.000000
+Min: 0.400000	Max:999999.000000
+9001
+Source = 
+rows: 3784cols: 4356TIFF to matrix = 0.750000 secs.
+Archivo de consumo: fwuse_V01_2.csv
+Columnas del arreglo: 2
+Elemento insertado: Value, ValueColumnas del arreglo: 2
+Elemento insertado: 63931.585, 63931.585Columnas del arreglo: 2
+Elemento insertado: 89027.829, 89027.829Columnas del arreglo: 2
+Elemento insertado: 23943.379, 23943.379Columnas del arreglo: 2
+Elemento insertado: 13653.348, 13653.348Columnas del arreglo: 2
+Elemento insertado: 14772.865, 14772.865Columnas del arreglo: 2
+Elemento insertado: 7041.05, 7041.05Columnas del arreglo: 2
+Elemento insertado: 44637.776, 44637.776Columnas del arreglo: 2
+Elemento insertado: 80957.776, 80957.776Columnas del arreglo: 2
+Elemento insertado: 17731.249, 17731.249Columnas del arreglo: 2
+Elemento insertado: 21728.164, 21728.164Columnas del arreglo: 2
+Elemento insertado: 11790.661, 11790.661Columnas del arreglo: 2
+Elemento insertado: 25958.511, 25958.511Columnas del arreglo: 2
+Elemento insertado: 11442.896, 11442.896Columnas del arreglo: 2
+Elemento insertado: 5445.141, 5445.141Columnas del arreglo: 2
+Elemento insertado: 12943.525, 12943.525Columnas del arreglo: 2
+Elemento insertado: 46190.808, 46190.808Columnas del arreglo: 2
+Elemento insertado: 31699.014, 31699.014Columnas del arreglo: 2
+Elemento insertado: 24648.436, 24648.436Columnas del arreglo: 2
+Elemento insertado: 39697.607, 39697.607Columnas del arreglo: 2
+Elemento insertado: 33647.45, 33647.45Columnas del arreglo: 2
+Elemento insertado: 10270.976, 10270.976Columnas del arreglo: 2
+Elemento insertado: 11461.952, 11461.952Columnas del arreglo: 2
+Elemento insertado: 18398.196, 18398.196Columnas del arreglo: 2
+Elemento insertado: 33904.701, 33904.701Columnas del arreglo: 2
+Elemento insertado: 36653.473, 36653.473Columnas del arreglo: 2
+Elemento insertado: 55023.085, 55023.085Columnas del arreglo: 2
+Elemento insertado: 29069.339, 29069.339Columnas del arreglo: 2
+Elemento insertado: 33299.685, 33299.685Columnas del arreglo: 2
+Elemento insertado: 80633.831, 80633.831Columnas del arreglo: 2
+Elemento insertado: 110551.144, 110551.144Columnas del arreglo: 2
+Elemento insertado: 79238.007, 79238.007Columnas del arreglo: 2
+Elemento insertado: 24662.728, 24662.728Columnas del arreglo: 2
+Elemento insertado: 39468.94, 39468.94Columnas del arreglo: 2
+Elemento insertado: 28993.117, 28993.117Columnas del arreglo: 2
+Elemento insertado: 182643.296, 182643.296Columnas del arreglo: 2
+Elemento insertado: 32146.821, 32146.821Columnas del arreglo: 2
+Elemento insertado: 104863.043, 104863.043Columnas del arreglo: 2
+Elemento insertado: 196739.687, 196739.687Columnas del arreglo: 2
+Elemento insertado: 29979.244, 29979.244Columnas del arreglo: 2
+Elemento insertado: 31775.236, 31775.236Columnas del arreglo: 2
+Elemento insertado: 10123.295, 10123.295Columnas del arreglo: 2
+Elemento insertado: 29255.132, 29255.132Columnas del arreglo: 2
+Elemento insertado: 112361.428, 112361.428Columnas del arreglo: 2
+Elemento insertado: 94044.219, 94044.219Columnas del arreglo: 2
+Elemento insertado: 21385.163, 21385.163Columnas del arreglo: 2
+Elemento insertado: 26239.58, 26239.58Columnas del arreglo: 2
+Elemento insertado: 6426.505, 6426.505Columnas del arreglo: 2
+Elemento insertado: 10142.351, 10142.351Columnas del arreglo: 2
+Elemento insertado: 14972.949, 14972.949Columnas del arreglo: 2
+Elemento insertado: 13215.068, 13215.068Tamaño del vector: 51
+termina de añadir localidades: 50
+objeto por crear
+Valor de bound: 359 x 359
+objeto creado
+antes de entrar a kernel
+despues de entrar a kernel
+Lanza el segundo kernel para la sumatoria 
+despues de entrar a segundo kernel
+Tiempo de ejecucion en paralelo: 738659.562500 ms
+EPSG:9001
+Max Val: 300862.218750
+Cuda execution finished
